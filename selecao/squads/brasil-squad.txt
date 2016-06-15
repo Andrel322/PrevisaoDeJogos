@@ -1,0 +1,179 @@
+Brazil - Squads
+
+1994
+22 players
+
+ (1)  GK  Taffarel                           ##    -, Reggiana 
+(12)  GK  Zetti                              ##    -, São Paulo 
+(22)  GK  Gilmar                             ##    -, Flamengo 
+
+ (2)  DF  Jorginho                           ##    -, Bayern Munich 
+ (3)  DF  Ricardo Rocha                      ##    -, Vasco da Gama 
+ (4)  DF  Ronaldão                           ##    -, Shimizu S-Pulse 
+ (6)  DF  Branco                             ##    -, Fluminense 
+(13)  DF  Aldair                             ##    -, Roma 
+(14)  DF  Cafu                               ##    -, São Paulo 
+(15)  DF  Márcio Santos                      ##    -, Bordeaux 
+
+ (5)  MF  Mauro Silva                        ##    -, Deportivo La Coruña 
+ (8)  MF  Dunga                              ##    -, VfB Stuttgart 
+ (9)  MF  Zinho                              ##    -, Palmeiras 
+(10)  MF  Raí                                ##    -, Paris Saint-Germain 
+(16)  MF  Leonardo                           ##    -, São Paulo 
+(17)  MF  Mazinho                            ##    -, Palmeiras 
+
+ (7)  FW  Bebeto                             ##    -, Deportivo La Coruña 
+(11)  FW  Romário                            ##    -, Barcelona 
+(18)  FW  Paulo Sérgio                       ##    -, Bayer Leverkusen 
+(19)  FW  Müller                             ##    -, São Paulo 
+(20)  FW  Ronaldo                            ##    -, Cruzeiro 
+(21)  FW  Viola                              ##    -, Corinthians 
+
+1998
+22 players
+
+ (1)  GK  Taffarel                           ##    -, Atlético Mineiro 
+(12)  GK  Carlos Germano                     ##    -, Vasco da Gama 
+(22)  GK  Dida                               ##    -, Cruzeiro 
+
+ (2)  DF  Cafu                               ##    -, Roma 
+ (3)  DF  Aldair                             ##    -, Roma 
+ (4)  DF  Júnior Baiano                      ##    -, Flamengo 
+ (6)  DF  Roberto Carlos                     ##    -, Real Madrid 
+(13)  DF  Zé Carlos                          ##    -, São Paulo 
+(14)  DF  Gonçalves                          ##    -, Botafogo 
+(15)  DF  André Cruz                         ##    -, Milan 
+
+ (5)  MF  César Sampaio                      ##    -, Yokohama Flügels 
+ (7)  MF  Giovanni                           ##    -, Barcelona 
+ (8)  MF  Dunga                              ##    -, Júbilo Iwata 
+(10)  MF  Rivaldo                            ##    -, Barcelona 
+(11)  MF  Emerson                            ##    -, Bayer Leverkusen 
+(16)  MF  Zé Roberto                         ##    -, Flamengo 
+(17)  MF  Doriva                             ##    -, Porto 
+(18)  MF  Leonardo                           ##    -, Milan 
+(19)  MF  Denílson                           ##    -, São Paulo 
+
+ (9)  FW  Ronaldo                            ##    -, Internazionale 
+(20)  FW  Bebeto                             ##    -, Botafogo 
+(21)  FW  Edmundo                            ##    -, Fiorentina 
+
+2002
+23 players
+
+ (1)  GK  Marcos                             ##   15, Palmeiras 
+(12)  GK  Dida                               ##   49, Corinthians 
+(22)  GK  Rogério Ceni                       ##   12, São Paulo 
+
+ (2)  DF  Cafu                               ##  103, Roma 
+ (3)  DF  Lúcio                              ##   15, Bayer Leverkusen 
+ (4)  DF  Roque Júnior                       ##   17, Milan 
+ (5)  DF  Edmílson                           ##   12, Lyon 
+ (6)  DF  Roberto Carlos                     ##   84, Real Madrid 
+(13)  DF  Juliano Belletti                   ##   10, São Paulo 
+(14)  DF  Ânderson Polga                     ##    5, Grêmio 
+(16)  DF  Júnior                             ##   12, Parma 
+
+ (7)  MF  Ricardinho                         ##    3, Corinthians 
+ (8)  MF  Gilberto Silva                     ##    6, Atlético Mineiro 
+(10)  MF  Rivaldo                            ##   58, Barcelona 
+(11)  MF  Ronaldinho                         ##   24, Paris Saint-Germain 
+(15)  MF  Kléberson                          ##    5, Atlético Paranaense 
+(18)  MF  Vampeta                            ##   36, Corinthians 
+(19)  MF  Juninho                            ##   43, Middlesbrough 
+(23)  MF  Kaká                               ##    2, São Paulo 
+
+ (9)  FW  Ronaldo                            ##   56, Internazionale 
+(17)  FW  Denílson                           ##   53, Real Betis 
+(20)  FW  Edílson                            ##   17, Cruzeiro 
+(21)  FW  Luizão                             ##    8, Grêmio
+
+2006
+23 players
+
+ (1)  GK  Dida                               ##   86, Milan (ITA)
+(12)  GK  Rogério Ceni                       ##   15, São Paulo (BRA)
+(22)  GK  Júlio César                        ##   11, Internazionale (ITA)
+
+ (2)  DF  Cafu                               ##  138, Milan (ITA)
+ (3)  DF  Lúcio                              ##   50, Bayern Munich (GER)
+ (4)  DF  Juan                               ##   38, Bayer Leverkusen (GER)
+ (6)  DF  Roberto Carlos                     ##  121, Real Madrid (ESP)
+(13)  DF  Cicinho                            ##   10, Real Madrid (ESP)
+(14)  DF  Luisão                             ##   19, Benfica (POR)
+(15)  DF  Cris                               ##   16, Lyon (FRA)
+(16)  DF  Gilberto                           ##    9, Hertha BSC (GER)
+
+ (5)  MF  Emerson                            ##   70, Juventus (ITA)
+ (8)  MF  Kaká                               ##   38, Milan (ITA)
+(10)  MF  Ronaldinho                         ##   63, Barcelona (ESP)
+(11)  MF  Zé Roberto                         ##   79, Bayern Munich (GER)
+(17)  MF  Gilberto Silva                     ##   36, Arsenal (ENG)
+(18)  MF  Mineiro                            ##    2, São Paulo (BRA)
+(19)  MF  Juninho                            ##   37, Lyon (FRA)
+(20)  MF  Ricardinho                         ##   19, Corinthians (BRA)
+
+ (7)  FW  Adriano                            ##   32, Internazionale (ITA)
+ (9)  FW  Ronaldo                            ##   92, Real Madrid (ESP)
+(21)  FW  Fred                               ##    3, Lyon (FRA)
+(23)  FW  Robinho                            ##   23, Real Madrid (ESP)
+
+2010
+23 players
+
+ (1)  GK  Júlio César                        ##   47, Internazionale (ITA)
+(12)  GK  Gomes                              ##    9, Tottenham Hotspur (ENG)
+(22)  GK  Doni                               ##   10, Roma (ITA)
+
+ (2)  DF  Maicon                             ##   56, Internazionale (ITA)
+ (3)  DF  Lúcio                              ##   89, Internazionale (ITA)
+ (4)  DF  Juan                               ##   73, Roma (ITA)
+ (6)  DF  Michel Bastos                      ##    3, Lyon (FRA)
+(13)  DF  Daniel Alves                       ##   33, Barcelona (ESP)
+(14)  DF  Luisão                             ##   40, Benfica (POR)
+(15)  DF  Thiago Silva                       ##    4, Milan (ITA)
+(16)  DF  Gilberto                           ##   32, Cruzeiro (BRA)
+
+ (5)  MF  Felipe Melo                        ##   16, Juventus (ITA)
+ (7)  MF  Elano                              ##   41, Galatasaray (TUR)
+ (8)  MF  Gilberto Silva                     ##   86, Panathinaikos (GRE)
+(10)  MF  Kaká                               ##   76, Real Madrid (ESP)
+(17)  MF  Josué                              ##   26, VfL Wolfsburg (GER)
+(18)  MF  Ramires                            ##   11, Benfica (POR)
+(19)  MF  Júlio Baptista                     ##   45, Roma (ITA)
+(20)  MF  Kléberson                          ##   31, Flamengo (BRA)
+
+ (9)  FW  Luís Fabiano                       ##   36, Sevilla (ESP)
+(11)  FW  Robinho                            ##   73, Santos (BRA)
+(21)  FW  Nilmar                             ##   15, Villarreal (ESP)
+(23)  FW  Grafite                            ##    2, VfL Wolfsburg (GER)
+
+2014
+23 players
+
+ (1)  GK  Jefferson                          ##   9, Botafogo (BRA)
+(12)  GK  Júlio César                        ##  79, Toronto (CAN)
+(22)  GK  Victor                             ##   6, Atlético Mineiro (BRA)
+
+ (2)  DF  Dani Alves                         ##  74, Barcelona (ESP)
+ (3)  DF  Thiago Silva                       ##  45, Paris Saint-Germain (FRA)
+ (4)  DF  David Luiz                         ##  35, Chelsea (ENG)
+ (6)  DF  Marcelo                            ##  30, Real Madrid (ESP)
+(13)  DF  Dante                              ##  12, Bayern Munich (GER)
+(14)  DF  Maxwell                            ##   8, Paris Saint-Germain (FRA)
+(15)  DF  Henrique                           ##   5, Napoli (ITA)
+(23)  DF  Maicon                             ##  71, Roma (ITA)
+
+ (5)  MF  Fernandinho                        ##   6, Manchester City (ENG)
+ (8)  MF  Paulinho                           ##  25, Tottenham Hotspur (ENG)
+(11)  MF  Oscar                              ##  30, Chelsea (ENG)
+(16)  MF  Ramires                            ##  42, Chelsea (ENG)
+(17)  MF  Luiz Gustavo                       ##  18, VfL Wolfsburg (GER)
+(18)  MF  Hernanes                           ##  24, Internazionale (ITA)
+(19)  MF  Willian                            ##   6, Chelsea (ENG)
+
+ (7)  FW  Hulk                               ##  34, Zenit Saint Petersburg (RUS)
+ (9)  FW  Fred                               ##  33, Fluminense (BRA)
+(10)  FW  Neymar                             ##  48, Barcelona (ESP)
+(20)  FW  Bernard                            ##  10, Shakhtar Donetsk (UKR)
+(21)  FW  Jô                                 ##  16, Atlético Mineiro (BRA)
