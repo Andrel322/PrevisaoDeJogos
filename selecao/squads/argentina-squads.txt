@@ -1,0 +1,179 @@
+Argentina - squad
+
+1994
+22 players
+(1)  GK  Sergio Goycochea                   ##    -, River Plate 
+(12)  GK  Luis Islas                         ##    -, Independiente 
+(22)  GK  Norberto Scoponi                   ##    -, Newell's Old Boys 
+(2)  DF  Sergio Vázquez                     ##    -, Universidad Católica 
+(3)  DF  José Chamot                        ##    -, Foggia 
+(4)  DF  Roberto Néstor Sensini             ##    -, Parma 
+(6)  DF  Oscar Ruggeri                      ##    -, San Lorenzo 
+(13)  DF  Fernando Cáceres                   ##    -, Real Zaragoza 
+(15)  DF  Jorge Borelli                      ##    -, Racing 
+(16)  DF  Hernán Díaz                        ##    -, River Plate 
+(5)  MF  Fernando Redondo                   ##    -, Tenerife 
+(8)  MF  José Basualdo                      ##    -, Vélez Sársfield 
+(10)  MF  Diego Maradona                     ##    -, Newell's Old Boys 
+(14)  MF  Diego Simeone                      ##    -, Sevilla 
+(17)  MF  Ariel Ortega                       ##    -, River Plate 
+(18)  MF  Hugo Pérez                         ##    -, Independiente 
+(20)  MF  Leonardo Rodríguez                 ##    -, Borussia Dortmund 
+(21)  MF  Alejandro Mancuso                  ##    -, Boca Juniors 
+(7)  FW  Claudio Caniggia                   ##    -, Roma 
+(9)  FW  Gabriel Batistuta                  ##    -, Fiorentina 
+(11)  FW  Ramón Medina Bello                 ##    -, Yokohama Marinos 
+(19)  FW  Abel Balbo                         ##    -, Roma 
+
+1998
+22 players
+
+ (1)  GK  Carlos Roa                         ##    -, Mallorca 
+(12)  GK  Germán Burgos                      ##    -, River Plate 
+(17)  GK  Pablo Cavallero                    ##    -, Vélez Sársfield 
+
+ (2)  DF  Roberto Ayala                      ##    -, Napoli 
+ (3)  DF  José Chamot                        ##    -, Lazio 
+ (4)  DF  Mauricio Pineda                    ##    -, Udinese 
+ (6)  DF  Roberto Néstor Sensini             ##    -, Parma 
+(13)  DF  Pablo Paz                          ##    -, Tenerife 
+(14)  DF  Nelson Vivas                       ##    -, Lugano 
+(22)  DF  Javier Zanetti                     ##    -, Internazionale 
+
+ (5)  MF  Matías Almeyda                     ##    -, Lazio 
+ (8)  MF  Diego Simeone                      ##    -, Internazionale 
+(10)  MF  Ariel Ortega                       ##    -, Valencia 
+(11)  MF  Juan Sebastián Verón               ##    -, Sampdoria 
+(15)  MF  Leonardo Astrada                   ##    -, River Plate 
+(16)  MF  Sergio Berti                       ##    -, River Plate 
+(20)  MF  Marcelo Gallardo                   ##    -, River Plate 
+
+ (7)  FW  Claudio López                      ##    -, Valencia 
+ (9)  FW  Gabriel Batistuta                  ##    -, Fiorentina 
+(18)  FW  Abel Balbo                         ##    -, Roma 
+(19)  FW  Hernán Crespo                      ##    -, Parma 
+
+2002
+##############################
+# Argentina (ARG) 
+#   - 23 players
+
+ (1)  GK  Germán Burgos                      ##   35, Atlético Madrid 
+(12)  GK  Pablo Cavallero                    ##    8, Celta Vigo 
+(23)  GK  Roberto Bonano                     ##   13, Barcelona 
+
+ (2)  DF  Roberto Ayala                      ##   74, Valencia 
+ (3)  DF  Juan Pablo Sorín                   ##   35, Cruzeiro 
+ (4)  DF  Mauricio Pochettino                ##   16, Paris Saint-Germain 
+ (6)  DF  Walter Samuel                      ##   30, Roma 
+ (8)  DF  Javier Zanetti                     ##   66, Internazionale 
+(13)  DF  Diego Placente                     ##    6, Bayer Leverkusen 
+(22)  DF  José Chamot                        ##   42, Milan 
+
+ (5)  MF  Matías Almeyda                     ##   33, Parma 
+(10)  MF  Ariel Ortega                       ##   81, River Plate 
+(11)  MF  Juan Sebastián Verón               ##   47, Manchester United 
+(14)  MF  Diego Simeone                      ##  104, Lazio 
+(15)  MF  Claudio Husaín                     ##   14, River Plate 
+(16)  MF  Pablo Aimar                        ##   18, Valencia 
+(17)  MF  Gustavo López                      ##   31, Celta Vigo 
+(18)  MF  Kily González                      ##   30, Valencia 
+(20)  MF  Marcelo Gallardo                   ##   42, AS Monaco 
+
+ (7)  FW  Claudio López                      ##   49, Lazio 
+ (9)  FW  Gabriel Batistuta                  ##   75, Roma 
+(19)  FW  Hernán Crespo                      ##   33, Lazio 
+(21)  FW  Claudio Caniggia                   ##   50, Rangers 
+
+2006
+##############################
+# Argentina (ARG) 
+#   - 23 players
+
+ (1)  GK  Roberto Abbondanzieri              ##   22, Boca Juniors (ARG)
+(12)  GK  Leo Franco                         ##    3, Atlético Madrid (ESP)
+(23)  GK  Óscar Ustari                       ##    0, Independiente (ARG)
+
+ (2)  DF  Roberto Ayala                      ##  100, Valencia (ESP)
+ (3)  DF  Juan Pablo Sorín                   ##   71, Villarreal (ESP)
+ (4)  DF  Fabricio Coloccini                 ##   23, Deportivo La Coruña (ESP)
+ (6)  DF  Gabriel Heinze                     ##   29, Manchester United (ENG)
+(13)  DF  Lionel Scaloni                     ##    6, Deportivo La Coruña (ESP)
+(15)  DF  Gabriel Milito                     ##   15, Real Zaragoza (ESP)
+(17)  DF  Leandro Cufré                      ##    2, Roma (ITA)
+(21)  DF  Nicolás Burdisso                   ##    8, Internazionale (ITA)
+
+ (5)  MF  Esteban Cambiasso                  ##   22, Internazionale (ITA)
+ (8)  MF  Javier Mascherano                  ##   15, Corinthians (BRA)
+(10)  MF  Juan Román Riquelme                ##   31, Villarreal (ESP)
+(16)  MF  Pablo Aimar                        ##   40, Valencia (ESP)
+(18)  MF  Maxi Rodríguez                     ##   13, Atlético Madrid (ESP)
+(22)  MF  Lucho González                     ##   27, Porto (POR)
+
+ (7)  FW  Javier Saviola                     ##   31, Barcelona (ESP)
+ (9)  FW  Hernán Crespo                      ##   55, Chelsea (ENG)
+(11)  FW  Carlos Tevez                       ##   21, Corinthians (BRA)
+(14)  FW  Rodrigo Palacio                    ##    2, Boca Juniors (ARG)
+(19)  FW  Lionel Messi                       ##    7, Barcelona (ESP)
+(20)  FW  Julio Cruz                         ##   15, Internazionale (ITA)
+
+2010
+##############################
+# Argentina (ARG) 
+#   - 23 players
+
+ (1)  GK  Diego Pozo                         ##    3, Colón (ARG)
+(21)  GK  Mariano Andújar                    ##    4, Catania (ITA)
+(22)  GK  Sergio Romero                      ##    5, AZ (NED)
+
+ (2)  DF  Martín Demichelis                  ##   25, Bayern Munich (GER)
+ (3)  DF  Clemente Rodríguez                 ##   11, Estudiantes (ARG)
+ (4)  DF  Nicolás Burdisso                   ##   28, Roma (ITA)
+ (6)  DF  Gabriel Heinze                     ##   63, Marseille (FRA)
+(12)  DF  Ariel Garcé                        ##    3, Colón (ARG)
+(13)  DF  Walter Samuel                      ##   54, Internazionale (ITA)
+(15)  DF  Nicolás Otamendi                   ##    6, Vélez Sársfield (ARG)
+
+ (5)  MF  Mario Bolatti                      ##    4, Fiorentina (ITA)
+ (7)  MF  Ángel di María                     ##    7, Benfica (POR)
+ (8)  MF  Juan Sebastián Verón               ##   69, Estudiantes (ARG)
+(14)  MF  Javier Mascherano                  ##   56, Liverpool (ENG)
+(17)  MF  Jonás Gutiérrez                    ##   15, Newcastle United (ENG)
+(20)  MF  Maxi Rodríguez                     ##   35, Liverpool (ENG)
+(23)  MF  Javier Pastore                     ##    0, Palermo (ITA)
+
+ (9)  FW  Gonzalo Higuaín                    ##    4, Real Madrid (ESP)
+(10)  FW  Lionel Messi                       ##   44, Barcelona (ESP)
+(11)  FW  Carlos Tévez                       ##   51, Manchester City (ENG)
+(16)  FW  Sergio Agüero                      ##   20, Atlético Madrid (ESP)
+(18)  FW  Martín Palermo                     ##   14, Boca Juniors (ARG)
+(19)  FW  Diego Milito                       ##   20, Internazionale (ITA)
+(21)  FW  Marcelo Delgado                    ##    -, Racing 
+
+2014
+(1)  GK  Sergio Romero                      ##  45, AS Monaco (FRA)
+(12)  GK  Agustín Orión                      ##   3, Boca Juniors (ARG)
+(21)  GK  Mariano Andújar                    ##  10, Catania (ITA)
+
+ (2)  DF  Ezequiel Garay                     ##  18, Benfica (POR)
+ (3)  DF  Hugo Campagnaro                    ##  13, Internazionale (ITA)
+ (4)  DF  Pablo Zabaleta                     ##  36, Manchester City (ENG)
+(15)  DF  Martín Demichelis                  ##  37, Manchester City (ENG)
+(16)  DF  Marcos Rojo                        ##  20, Sporting (POR)
+(17)  DF  Federico Fernández                 ##  24, Napoli (ITA)
+(23)  DF  José María Basanta                 ##   8, Monterrey (MEX)
+
+ (5)  MF  Fernando Gago                      ##  47, Boca Juniors (ARG)
+ (6)  MF  Lucas Biglia                       ##  16, Lazio (ITA)
+ (7)  MF  Ángel di María                     ##  45, Real Madrid (ESP)
+ (8)  MF  Enzo Pérez                         ##   5, Benfica (POR)
+(11)  MF  Maxi Rodríguez                     ##  53, Newell's Old Boys (ARG)
+(13)  MF  Augusto Fernández                  ##   7, Celta Vigo (ESP)
+(14)  MF  Javier Mascherano                  ##  96, Barcelona (ESP)
+(19)  MF  Ricardo Álvarez                    ##   5, Internazionale (ITA)
+
+ (9)  FW  Gonzalo Higuaín                    ##  36, Napoli (ITA)
+(10)  FW  Lionel Messi                       ##  84, Barcelona (ESP)
+(18)  FW  Rodrigo Palacio                    ##  15, Internazionale (ITA)
+(20)  FW  Sergio Agüero                      ##  50, Manchester City (ENG)
+(22)  FW  Ezequiel Lavezzi                   ##  29, Paris Saint-Germain (FRA)

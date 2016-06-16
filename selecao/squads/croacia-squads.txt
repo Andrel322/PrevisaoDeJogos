@@ -1,0 +1,104 @@
+Croatia - Squads
+
+1998
+22 players
+(1)  GK  Dražen Ladic                       ##   41, Croatia Zagreb 
+(12)  GK  Marijan Mrmic                      ##   12, Besiktas 
+(22)  GK  Vladimir Vasilj                    ##    1, Hrvatski Dragovoljac 
+(3)  DF  Anthony Šeric                      ##    3, Hajduk Split 
+(4)  DF  Igor Štimac                        ##   29, Derby County 
+(5)  DF  Goran Juric                        ##   11, Croatia Zagreb 
+(6)  DF  Slaven Bilic                       ##   36, Everton 
+(15)  DF  Igor Tudor                         ##    5, Hajduk Split 
+(17)  DF  Robert Jarni                       ##   38, Real Betis 
+(20)  DF  Dario Šimic                        ##   17, Croatia Zagreb 
+(7)  MF  Aljoša Asanovic                    ##   39, Napoli 
+(8)  MF  Robert Prosinecki                  ##   29, Croatia Zagreb 
+(10)  MF  Zvonimir Boban                     ##   35, Milan 
+(11)  MF  Silvio Maric                       ##    7, Croatia Zagreb 
+(13)  MF  Mario Stanic                       ##   16, Parma 
+(14)  MF  Zvonimir Soldo                     ##   26, VfB Stuttgart 
+(18)  MF  Zoran Mamic                        ##    6, VfL Bochum 
+(21)  MF  Krunoslav Jurcic                   ##    9, Croatia Zagreb 
+(2)  FW  Petar Krpan                        ##    1, Osijek 
+(9)  FW  Davor Šuker                        ##   36, Real Madrid 
+(16)  FW  Ardian Kozniku                     ##    7, Bastia 
+(19)  FW  Goran Vlaovic                      ##   28, Valencia 
+
+2002
+23 players
+(1)  GK  Stipe Pletikosa                    ##   17, Hajduk Split 
+(12)  GK  Tomislav Butina                    ##    7, Dinamo Zagreb 
+(23)  GK  Vladimir Vasilj                    ##    2, Zagreb 
+(2)  DF  Anthony Šeric                      ##    8, Hellas Verona 
+(3)  DF  Josip Šimunic                      ##    6, Hertha BSC 
+(4)  DF  Stjepan Tomas                      ##   17, Vicenza 
+(6)  DF  Boris Živkovic                     ##   15, Bayer Leverkusen 
+(15)  DF  Daniel Šaric                       ##   25, Panathinaikos 
+(17)  DF  Robert Jarni                       ##   78, Panathinaikos 
+(20)  DF  Dario Šimic                        ##   48, Internazionale 
+(21)  DF  Robert Kovac                       ##   19, Bayern Munich 
+(5)  MF  Milan Rapaic                       ##   23, Fenerbahçe 
+(8)  MF  Robert Prosinecki                  ##   48, Portsmouth 
+(10)  MF  Niko Kovac                         ##   20, Bayern Munich 
+(13)  MF  Mario Stanic                       ##   43, Chelsea 
+(14)  MF  Zvonimir Soldo                     ##   59, VfB Stuttgart 
+(16)  MF  Jurica Vranješ                     ##    7, Bayer Leverkusen 
+(7)  FW  Davor Vugrinec                     ##   21, Lecce 
+(9)  FW  Davor Šuker                        ##   68, 1860 Munich 
+(11)  FW  Alen Bokšic                        ##   36, Middlesbrough 
+(18)  FW  Ivica Olic                         ##    4, Zagreb 
+(19)  FW  Goran Vlaovic                      ##   50, Panathinaikos 
+(22)  FW  Boško Balaban                      ##   13, Aston Villa 
+
+2006
+23 players
+(1)  GK  Stipe Pletikosa                    ##   50, Shakhtar Donetsk (UKR)
+(12)  GK  Joey Didulica                      ##    4, Austria Wien (AUT)
+(23)  GK  Tomislav Butina                    ##   28, Club Brugge (BEL)
+(3)  DF  Josip Šimunic                      ##   42, Hertha BSC (GER)
+(4)  DF  Robert Kovac                       ##   56, Juventus (ITA)
+(5)  DF  Igor Tudor                         ##   52, Juventus (ITA)
+(7)  DF  Dario Šimic                        ##   80, Milan (ITA)
+(11)  DF  Mario Tokic                        ##   28, Austria Wien (AUT)
+(13)  DF  Stjepan Tomas                      ##   48, Galatasaray (TUR)
+(2)  MF  Darijo Srna                        ##   36, Shakhtar Donetsk (UKR)
+(6)  MF  Jurica Vranješ                     ##   24, Werder Bremen (GER)
+(8)  MF  Marko Babic                        ##   33, Bayer Leverkusen (GER)
+(10)  MF  Niko Kovac                         ##   58, Hertha BSC (GER)
+(14)  MF  Luka Modric                        ##    5, Dinamo Zagreb (CRO)
+(15)  MF  Ivan Leko                          ##   13, Club Brugge (BEL)
+(16)  MF  Jerko Leko                         ##   36, Dynamo Kyiv (UKR)
+(19)  MF  Niko Kranjcar                      ##   21, Hajduk Split (CRO)
+(20)  MF  Anthony Šeric                      ##   14, Panathinaikos (GRE)
+(9)  FW  Dado Pršo                          ##   29, Rangers (SCO)
+(17)  FW  Ivan Klasnic                       ##   20, Werder Bremen (GER)
+(18)  FW  Ivica Olic                         ##   36, CSKA Moscow (RUS)
+(21)  FW  Boško Balaban                      ##   27, Club Brugge (BEL)
+(22)  FW  Ivan Bošnjak                       ##   13, Dinamo Zagreb (CRO)
+
+2014
+(1)  GK  Stipe Pletikosa                    ## 110, Rostov (RUS)
+(12)  GK  Oliver Zelenika                    ##   0, Lokomotiva (CRO)
+(23)  GK  Danijel Subašic                    ##   6, AS Monaco (FRA)
+(2)  DF  Šime Vrsaljko                      ##   6, Genoa (ITA)
+(3)  DF  Danijel Pranjic                    ##  48, Panathinaikos (GRE)
+(5)  DF  Vedran Corluka                     ##  72, Lokomotiv Moscow (RUS)
+(6)  DF  Dejan Lovren                       ##  23, Southampton (ENG)
+(11)  DF  Darijo Srna                        ## 112, Shakhtar Donetsk (UKR)
+(13)  DF  Gordon Schildenfeld                ##  21, Panathinaikos (GRE)
+(21)  DF  Domagoj Vida                       ##  23, Dynamo Kyiv (UKR)
+(4)  MF  Ivan Perišic                       ##  28, VfL Wolfsburg (GER)
+(7)  MF  Ivan Rakitic                       ##  61, Sevilla (ESP)
+(8)  MF  Ognjen Vukojevic                   ##  55, Dynamo Kyiv (UKR)
+(10)  MF  Luka Modric                        ##  74, Real Madrid (ESP)
+(14)  MF  Marcelo Brozovic                   ##   0, Dinamo Zagreb (CRO)
+(15)  MF  Ivan Mocinic                       ##   0, Rijeka (CRO)
+(19)  MF  Sammir                             ##   5, Getafe (SPA)
+(20)  MF  Mateo Kovacic                      ##   9, Internazionale (ITA)
+(9)  FW  Nikica Jelavic                     ##  33, Hull City (ENG)
+(16)  FW  Ante Rebic                         ##   4, Fiorentina (ITA)
+(17)  FW  Mario Mandžukic                    ##  49, Bayern Munich (GER)
+(18)  FW  Ivica Olic                         ##  91, VfL Wolfsburg (GER)
+(22)  FW  Eduardo                            ##  63, Shakhtar Donetsk (UKR)
+

@@ -1,0 +1,77 @@
+Russia - squad
+
+1994 
+22 players
+(1)  GK  Stanislav Cherchesov               ##   19, Dynamo Dresden 
+(16)  GK  Dmitri Kharine                     ##   22, Chelsea 
+(2)  DF  Dmitri Kuznetsov                   ##   26, Espanyol 
+(3)  DF  Sergei Gorlukovich                 ##   32, Bayer Uerdingen 
+(4)  DF  Dmitri Galiamin                    ##   18, Espanyol 
+(5)  DF  Yuri Nikiforov                     ##    8, Spartak Moscow 
+(6)  DF  Vladislav Ternavski                ##    2, Spartak Moscow 
+(12)  DF  Omari Tetradze                     ##    9, Dynamo Moscow 
+(18)  DF  Viktor Onopko                      ##   21, Spartak Moscow 
+(21)  DF  Dmitri Khlestov                    ##   12, Spartak Moscow 
+(7)  MF  Andrei Piatnitski                  ##    9, Spartak Moscow 
+(8)  MF  Dmitri Popov                       ##   11, Racing Santander 
+(10)  MF  Valeri Karpin                      ##   10, Spartak Moscow 
+(17)  MF  Ilia Tsymbalar                     ##    2, Spartak Moscow 
+(19)  MF  Aleksandr Mostovoi                 ##   20, Caen 
+(20)  MF  Igor Lediakhov                     ##   15, Spartak Moscow 
+(9)  FW  Oleg Salenko                       ##    5, Logroñés 
+(11)  FW  Vladimir Beschastnykh              ##    6, Spartak Moscow 
+(13)  FW  Aleksandr Borodyuk                 ##   13, Freiburg 
+(14)  FW  Igor Korneev                       ##   13, Espanyol 
+(15)  FW  Dmitri Radchenko                   ##   14, Racing Santander 
+(22)  FW  Sergei Yuran                       ##   26, Benfica 
+
+2002
+23 players
+(1)  GK  Ruslan Nigmatullin                 ##   20, Hellas Verona 
+(12)  GK  Stanislav Cherchesov               ##   49, Tirol Innsbruck 
+(23)  GK  Aleksandr Filimonov                ##   16, Uralan Elista 
+(2)  DF  Yuri Kovtun                        ##   44, Spartak Moscow 
+(3)  DF  Yuri Nikiforov                     ##   56, PSV 
+(5)  DF  Andrei Solomatin                   ##    5, CSKA Moscow 
+(7)  DF  Viktor Onopko                      ##   97, Real Oviedo 
+(13)  DF  Vyacheslav Dayev                   ##    7, CSKA Moscow 
+(14)  DF  Igor Chugainov                     ##   30, Uralan Elista 
+(18)  DF  Dmitri Sennikov                    ##    4, Lokomotiv Moscow 
+(4)  MF  Alexey Smertin                     ##   25, Bordeaux 
+(6)  MF  Igor Semshov                       ##    2, Torpedo Moscow 
+(8)  MF  Valery Karpin                      ##   69, Celta Vigo 
+(9)  MF  Yegor Titov                        ##   30, Spartak Moscow 
+(10)  MF  Aleksandr Mostovoi                 ##   59, Celta Vigo 
+(15)  MF  Dmitri Alenichev                   ##   43, Porto 
+(17)  MF  Sergei Semak                       ##   31, CSKA Moscow 
+(20)  MF  Marat Izmailov                     ##    8, Lokomotiv Moscow 
+(21)  MF  Dmitri Khokhlov                    ##   39, Real Sociedad 
+(11)  FW  Vladimir Beschastnykh              ##   64, Spartak Moscow 
+(16)  FW  Aleksandr Kerzhakov                ##    3, Zenit St. Petersburg 
+(19)  FW  Ruslan Pimenov                     ##    1, Lokomotiv Moscow 
+(22)  FW  Dmitri Sychev                      ##    3, Spartak Moscow  
+
+2014
+(1)  GK  Igor Akinfeev                      ##  67, CSKA Moscow 
+(12)  GK  Yuri Lodygin                       ##   2, Zenit Saint Petersburg 
+(16)  GK  Sergey Ryzhikov                    ##   1, Rubin Kazan 
+(2)  DF  Aleksei Kozlov                     ##  10, Dynamo Moscow 
+(3)  DF  Georgi Shchennikov                 ##   3, CSKA Moscow 
+(4)  DF  Sergei Ignashevich                 ##  95, CSKA Moscow 
+(5)  DF  Andrei Semyonov                    ##   1, Terek Grozny 
+(13)  DF  Vladimir Granat                    ##   4, Dynamo Moscow 
+(14)  DF  Vasili Berezutski                  ##  77, CSKA Moscow 
+(22)  DF  Andrey Yeshchenko                  ##  11, Anzhi Makhachkala 
+(23)  DF  Dmitri Kombarov                    ##  21, Spartak Moscow 
+(7)  MF  Igor Denisov                       ##  42, Dynamo Moscow 
+(8)  MF  Denis Glushakov                    ##  26, Spartak Moscow 
+(10)  MF  Alan Dzagoev                       ##  31, CSKA Moscow 
+(15)  MF  Roman Shirokov                     ##  40, Krasnodar 
+(17)  MF  Oleg Shatov                        ##   6, Zenit Saint Petersburg 
+(20)  MF  Viktor Fayzulin                    ##  18, Zenit Saint Petersburg 
+(6)  FW  Maksim Kanunnikov                  ##   2, Rubin Kazan 
+(9)  FW  Aleksandr Kokorin                  ##  20, Dynamo Moscow 
+(11)  FW  Aleksandr Kerzhakov                ##  79, Zenit Saint Petersburg 
+(18)  FW  Yuri Zhirkov                       ##  59, Dynamo Moscow 
+(19)  FW  Aleksandr Samedov                  ##  16, Lokomotiv Moscow 
+(21)  FW  Aleksei Ionov                      ##   5, Dynamo Moscow 

@@ -1,0 +1,104 @@
+Saudi Arabia - squad
+
+1994
+22 players
+(1)  GK  Mohamed Al-Deayea                  ##    -, Al-Ta'ee 
+(21)  GK  Hussein Al-Sadiq                   ##    -, Al-Qadisiya 
+(22)  GK  Ibrahim Al-Helwah                  ##    -, Al-Riyadh 
+(2)  DF  Abdullah Al-Dosari                 ##    -, Al-Ittihad 
+(3)  DF  Mohammed Al-Khilaiwi               ##    -, Al-Ittihad 
+(4)  DF  Abdullah Zubromawi                 ##    -, Al-Ahli 
+(5)  DF  Ahmad Jamil Madani                 ##    -, Al-Ittihad 
+(13)  DF  Mohamed Al-Jawad                   ##    -, Al-Ahli 
+(15)  DF  Saleh Al-Dawod                     ##    -, Al-Shabab 
+(17)  DF  Yassir Al-Taifi                    ##    -, Al-Riyadh 
+(18)  DF  Awad Al-Anazi                      ##    -, Al-Shabab 
+(6)  MF  Fuad Amin                          ##    -, Al-Shabab 
+(8)  MF  Fahad Al-Bishi                     ##    -, Al-Nasser 
+(14)  MF  Khalid Al-Muwallid                 ##    -, Al-Ahli 
+(16)  MF  Talal Jebreen                      ##    -, Al-Riyadh 
+(19)  MF  Hamzah Saleh                       ##    -, Al-Ahli 
+(7)  FW  Fahad Al-Ghesheyan                 ##    -, Al-Hilal 
+(9)  FW  Majed Abdullah                     ##    -, Al-Nasser 
+(10)  FW  Saeed Al-Owairan                   ##    -, Al-Shabab 
+(11)  FW  Fahad Al-Mehallel                  ##    -, Al-Shabab 
+(12)  FW  Sami Al-Jaber                      ##    -, Al-Hilal 
+(20)  FW  Hamzah Idris                       ##    -, Ohud 
+
+1998
+22 players
+(1)  GK  Mohamed Al-Deayea                  ##   94, Al-Ta'ee 
+(21)  GK  Hussein Al-Sadiq                   ##   64, Al-Qadisiya 
+(22)  GK  Tisir Al-Antaif                    ##    0, Al-Ittifaq 
+(2)  DF  Mohammed Al-Jahani                 ##   64, Al-Ahli 
+(3)  DF  Mohammed Al-Khilaiwi               ##   86, Al-Ittihad 
+(5)  DF  Ahmad Jamil Madani                 ##   94, Al-Ittihad 
+(13)  DF  Hussein Sulaimani                  ##   40, Al-Ahli 
+(17)  DF  Ahmed Dokhi                        ##   12, Al-Hilal 
+(19)  DF  Abdulaziz Al-Janoubi               ##    3, Al-Nasr 
+(4)  MF  Abdullah Zubromawi                 ##   83, Al-Ahli 
+(6)  MF  Fuad Amin                          ##   95, Al-Shabab 
+(12)  MF  Ibrahim Al-Harbi                   ##   47, Al-Nasr 
+(14)  MF  Khalid Al-Muwallid                 ##   91, Al-Ahli 
+(15)  MF  Yousuf Al-Thunayan                 ##   86, Al-Hilal 
+(16)  MF  Khamis Al-Owairan                  ##   48, Al-Hilal 
+(18)  MF  Nawaf Al-Temyat                    ##    0, Al-Hilal 
+(20)  MF  Hamzah Saleh                       ##   38, Al-Ahli 
+(7)  FW  Ibrahim Al-Shahrani                ##   19, Al-Ahli 
+(8)  FW  Obeid Al-Dosari                    ##   61, Al-Wehda 
+(9)  FW  Sami Al-Jaber                      ##   85, Al-Hilal 
+(10)  FW  Saeed Al-Owairan                   ##   55, Al-Shabab 
+(11)  FW  Fahad Al-Mehallel                  ##   85, Al-Shabab
+
+2002
+23 players
+(1)  GK  Mohamed Al-Deayea                  ##  168, Al-Hilal 
+(21)  GK  Mabrouk Zaid                       ##    1, Al-Ittihad 
+(22)  GK  Mohammed Al-Khojali                ##   12, Al-Nassr 
+(2)  DF  Mohammed Al-Jahani                 ##   73, Al-Ahli 
+(3)  DF  Redha Tukar                        ##    5, Al-Shabab 
+(4)  DF  Abdullah Zubromawi                 ##  115, Al-Ahli 
+(5)  DF  Mohsin Al-Harthi                   ##   20, Al-Nassr 
+(6)  DF  Fouzi Al-Shehri                    ##    2, Al-Ahli 
+(12)  DF  Ahmed Dokhi                        ##   47, Al-Hilal 
+(13)  DF  Hussein Sulaimani                  ##   80, Al-Ahli 
+(23)  DF  Mansour Al-Thagafi                 ##    0, Al-Nassr 
+(7)  MF  Ibrahim Al-Shahrani                ##   59, Al-Ahli 
+(8)  MF  Mohammed Noor                      ##   29, Al-Ittihad 
+(10)  MF  Mohammad Al-Shalhoub               ##   17, Al-Hilal 
+(14)  MF  Abdulaziz Khathran                 ##    0, Al-Shabab 
+(16)  MF  Khamis Al-Owairan                  ##   76, Al-Ittihad 
+(17)  MF  Abdullah Al-Waked                  ##   45, Al-Shabab 
+(18)  MF  Nawaf Al-Temyat                    ##   48, Al-Hilal 
+(19)  MF  Omar Al-Ghamdi                     ##   28, Al-Hilal 
+(9)  FW  Sami Al-Jaber                      ##  148, Al-Hilal 
+(11)  FW  Obeid Al-Dosari                    ##   97, Al-Ahli 
+(15)  FW  Abdullah Jumaan Al-Dosari          ##   20, Al-Hilal 
+(20)  FW  Al Hasan Al-Yami                   ##   18, Al-Ittihad 
+
+2006
+23 players
+(1)  GK  Mohamed Al-Deayea                  ##  175, Al-Hilal (KSA)
+(21)  GK  Mabrouk Zaid                       ##   33, Al-Ittihad (KSA)
+(22)  GK  Mohammad Khouja                    ##    8, Al-Shabab (KSA)
+(2)  DF  Ahmed Dokhi Al-Dosari              ##   68, Al-Ittihad (KSA)
+(3)  DF  Redha Tukar                        ##   37, Al-Ittihad (KSA)
+(4)  DF  Hamad Al-Montashari                ##   32, Al-Ittihad (KSA)
+(5)  DF  Naif Al-Qadi                       ##   28, Al-Ahli (KSA)
+(12)  DF  Abdulaziz Khathran                 ##   19, Al-Hilal (KSA)
+(13)  DF  Hussein Sulaimani                  ##   97, Al-Ahli (KSA)
+(15)  DF  Ahmed Al-Bahri                     ##   11, Al-Ettifaq (KSA)
+(17)  DF  Mohammad Al-Bishi                  ##    0, Al-Ahli (KSA)
+(19)  DF  Mohammad Massad                    ##    5, Al-Ahli (KSA)
+(6)  MF  Omar Al-Ghamdi                     ##   38, Al-Hilal (KSA)
+(7)  MF  Mohammed Ameen                     ##   16, Al-Ittihad (KSA)
+(8)  MF  Mohammed Noor                      ##   63, Al-Ittihad (KSA)
+(10)  MF  Mohammad Al-Shalhoub               ##   48, Al-Hilal (KSA)
+(14)  MF  Saud Khariri                       ##   34, Al-Ittihad (KSA)
+(16)  MF  Khaled Aziz                        ##   14, Al-Hilal (KSA)
+(18)  MF  Nawaf Al-Temyat                    ##   56, Al-Hilal (KSA)
+(9)  FW  Sami Al-Jaber                      ##  160, Al-Hilal (KSA)
+(11)  FW  Saad Al-Harthi                     ##   15, Al-Nasr (KSA)
+(20)  FW  Yasser Al-Qahtani                  ##   45, Al-Hilal (KSA)
+(23)  FW  Malek Mouath                       ##    5, Al-Ahli (KSA)
+

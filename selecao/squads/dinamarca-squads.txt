@@ -1,0 +1,81 @@
+Denmark - Squads
+
+1998
+
+22 players
+(1)  GK  Peter Schmeichel                   ##  100, Manchester United 
+(16)  GK  Mogens Krogh                       ##    8, Brøndby 
+(22)  GK  Peter Kjær                         ##    0, Silkeborg 
+ (2)  DF  Michael Schjønberg                 ##   28, 1. FC Kaiserslautern 
+ (3)  DF  Marc Rieper                        ##   53, Celtic 
+ (4)  DF  Jes Høgh                           ##   37, Fenerbahçe 
+ (5)  DF  Jan Heintze                        ##   39, Bayer Leverkusen 
+ (6)  DF  Thomas Helveg                      ##   30, Udinese 
+(12)  DF  Søren Colding                      ##    4, Brøndby 
+(13)  DF  Jacob Laursen                      ##   22, Derby County 
+(20)  DF  René Henriksen                     ##    2, Akademisk 
+ (7)  MF  Allan Nielsen                      ##   18, Tottenham Hotspur 
+ (8)  MF  Per Frandsen                       ##   12, Bolton Wanderers 
+(10)  MF  Michael Laudrup                    ##   99, Ajax 
+(14)  MF  Morten Wieghorst                   ##   11, Celtic 
+(15)  MF  Stig Tøfting                       ##    4, MSV Duisburg 
+(17)  MF  Bjarne Goldbæk                     ##   11, Copenhagen 
+(21)  MF  Martin Jørgensen                   ##    4, Udinese 
+ (9)  FW  Miklos Molnar                      ##    9, Sevilla 
+(11)  FW  Brian Laudrup                      ##   77, Rangers 
+(18)  FW  Peter Møller                       ##   11, PSV 
+(19)  FW  Ebbe Sand                          ##    2, Brøndby 
+
+2002
+23 players
+ (1)  GK  Thomas Sørensen                    ##   14, Sunderland 
+(16)  GK  Peter Kjær                         ##    4, Aberdeen 
+(22)  GK  Jesper Christiansen                ##    0, Vejle 
+ (3)  DF  René Henriksen                     ##   39, Panathinaikos 
+ (4)  DF  Martin Laursen                     ##   15, Milan 
+ (5)  DF  Jan Heintze                        ##   83, PSV 
+ (6)  DF  Thomas Helveg                      ##   67, Milan 
+(12)  DF  Niclas Jensen                      ##    8, Manchester City 
+(13)  DF  Steven Lustü                       ##    4, Lyn 
+(20)  DF  Kasper Bøgelund                    ##    2, PSV 
+ (2)  MF  Stig Tøfting                       ##   36, Bolton Wanderers 
+ (7)  MF  Thomas Gravesen                    ##   22, Everton 
+ (8)  MF  Jesper Grønkjær                    ##   25, Chelsea 
+(10)  MF  Martin Jørgensen                   ##   32, Udinese 
+(14)  MF  Claus Jensen                       ##   13, Charlton Athletic 
+(15)  MF  Jan Michaelsen                     ##   11, Panathinaikos 
+(17)  MF  Christian Poulsen                  ##    3, Copenhagen 
+(19)  MF  Dennis Rommedahl                   ##   19, PSV 
+(23)  MF  Brian Steen Nielsen                ##   65, Malmö 
+ (9)  FW  Jon Dahl Tomasson                  ##   38, Feyenoord 
+(11)  FW  Ebbe Sand                          ##   44, Schalke 04 
+(18)  FW  Peter Løvenkrands                  ##    4, Rangers 
+(21)  FW  Peter Madsen                       ##    4, Brøndby 
+
+2010
+23 players
+ (1)  GK  Thomas Sørensen                    ##   86, Stoke City (ENG)
+(16)  GK  Stephan Andersen                   ##    5, Brøndby (DEN)
+(22)  GK  Jesper Christiansen                ##   11, København (DEN)
+ (3)  DF  Simon Kjær                         ##    9, Palermo (ITA)
+ (4)  DF  Daniel Agger                       ##   30, Liverpool (ENG)
+ (5)  DF  William Kvist                      ##   13, København (DEN)
+ (6)  DF  Lars Jacobsen                      ##   29, Blackburn Rovers (ENG)
+(13)  DF  Per Krøldrup                       ##   28, Fiorentina (ITA)
+(15)  DF  Simon Poulsen                      ##    4, AZ (NED)
+(23)  DF  Patrick Mtiliga                    ##    2, Málaga (ESP)
+ (2)  MF  Christian Poulsen                  ##   72, Juventus (ITA)
+ (7)  MF  Daniel Jensen                      ##   47, Werder Bremen (GER)
+ (8)  MF  Jesper Grønkjær                    ##   76, København (DEN)
+(10)  MF  Martin Jørgensen                   ##   94, AGF (DEN)
+(12)  MF  Thomas Kahlenberg                  ##   30, VfL Wolfsburg (GER)
+(14)  MF  Jakob Poulsen                      ##   11, AGF (DEN)
+(17)  MF  Mikkel Beckmann                    ##    3, Randers (DEN)
+(19)  MF  Dennis Rommedahl                   ##   94, Ajax (NED)
+(20)  MF  Thomas Enevoldsen                  ##    4, Groningen (NED)
+(21)  MF  Christian Eriksen                  ##    2, Ajax (NED)
+ (9)  FW  Jon Dahl Tomasson                  ##  108, Feyenoord (NED)
+(11)  FW  Nicklas Bendtner                   ##   32, Arsenal (ENG)
+(18)  FW  Søren Larsen                       ##   17, MSV Duisburg (GER)
+
+

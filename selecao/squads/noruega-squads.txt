@@ -1,0 +1,51 @@
+Norway - squad
+
+1994
+22 players
+(1)  GK  Erik Thorstvedt                    ##   84, Tottenham Hotspur 
+(12)  GK  Frode Grodås                       ##   12, Lillestrøm 
+(13)  GK  Ola By Rise                        ##   25, Rosenborg 
+(2)  DF  Gunnar Halle                       ##   44, Oldham Athletic 
+(3)  DF  Erland Johnsen                     ##   20, Chelsea 
+(4)  DF  Rune Bratseth                      ##   57, Werder Bremen 
+(5)  DF  Stig Inge Bjørnebye                ##   34, Liverpool 
+(14)  DF  Roger Nilsen                       ##   20, Sheffield United 
+(17)  DF  Dan Eggen                          ##    2, Brøndby 
+(18)  DF  Alf-Inge Håland                    ##    3, Nottingham Forest 
+(20)  DF  Henning Berg                       ##   16, Blackburn Rovers 
+(7)  MF  Erik Mykland                       ##   25, Start 
+(8)  MF  Øyvind Leonhardsen                 ##   29, Rosenborg 
+(10)  MF  Kjetil Rekdal                      ##   32, Lierse 
+(11)  MF  Mini Jakobsen                      ##   44, Young Boys 
+(15)  MF  Karl Petter Løken                  ##   32, Rosenborg 
+(19)  MF  Roar Strand                        ##    1, Rosenborg 
+(22)  MF  Lars Bohinen                       ##   29, Nottingham Forest 
+(6)  FW  Jostein Flo                        ##   23, Sheffield United 
+(9)  FW  Jan Åge Fjørtoft                   ##   50, Swindon Town 
+(16)  FW  Gøran Sørloth                      ##   54, Bursaspor 
+(21)  FW  Sigurd Rushfeldt                   ##    1, Tromsø 
+
+1998
+22 players
+(1)  GK  Frode Grodås                       ##   39, Tottenham Hotspur 
+(12)  GK  Thomas Myhre                       ##    1, Everton 
+(13)  GK  Espen Baardsen                     ##    1, Tottenham Hotspur 
+(2)  DF  Gunnar Halle                       ##   60, Leeds United 
+(3)  DF  Ronny Johnsen                      ##   33, Manchester United 
+(4)  DF  Henning Berg                       ##   52, Manchester United 
+(5)  DF  Stig Inge Bjørnebye                ##   62, Liverpool 
+(14)  DF  Vegard Heggem                      ##    1, Rosenborg 
+(15)  DF  Dan Eggen                          ##   13, Celta Vigo 
+(19)  DF  Erik Hoftun                        ##    1, Rosenborg 
+(6)  MF  Ståle Solbakken                    ##   34, AaB 
+(7)  MF  Erik Mykland                       ##   54, Panathinaikos 
+(8)  MF  Øyvind Leonhardsen                 ##   55, Liverpool 
+(10)  MF  Kjetil Rekdal                      ##   66, Hertha BSC 
+(11)  MF  Mini Jakobsen                      ##   64, Rosenborg 
+(16)  MF  Jostein Flo                        ##   44, Strømsgodset 
+(17)  MF  Håvard Flo                         ##    9, Werder Bremen 
+(21)  MF  Vidar Riseth                       ##    4, LASK Linz 
+(22)  MF  Roar Strand                        ##    5, Rosenborg 
+(9)  FW  Tore André Flo                     ##   25, Chelsea 
+(18)  FW  Egil Østenstad                     ##   13, Southampton 
+(20)  FW  Ole Gunnar Solskjær                ##   13, Manchester United 

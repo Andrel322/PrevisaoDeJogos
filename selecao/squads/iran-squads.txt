@@ -1,0 +1,79 @@
+Iran - Squads
+
+1998
+22 players
+ (1)  GK  Ahmad Reza Abedzadeh               ##   66, Persepolis 
+(12)  GK  Nima Nakisa                        ##    6, Persepolis 
+(22)  GK  Parviz Broumand                    ##    0, Esteghlal 
+ (3)  DF  Naeim Saadavi                      ##    8, Persepolis 
+ (4)  DF  Mohammad Khakpour                  ##   37, Bahman 
+ (5)  DF  Afshin Peyrovani                   ##   37, Persepolis 
+(14)  DF  Nader Mohammadkhani                ##   16, Polyacryl 
+(15)  DF  Ali Akbar Ostad-Asadi              ##   29, Zob Ahan 
+(16)  DF  Reza Shahroudi                     ##   34, Persepolis 
+(17)  DF  Javad Zarincheh                    ##   55, Esteghlal 
+(20)  DF  Mehdi Pashazadeh                   ##    4, Esteghlal 
+ (2)  MF  Mehdi Mahdavikia                   ##   24, Persepolis 
+ (6)  MF  Karim Bagheri                      ##   44, Arminia Bielefeld 
+ (7)  MF  Alireza Mansourian                 ##   33, Esteghlal 
+ (8)  MF  Sirous Dinmohammadi                ##   16, Shahrdari Tabriz 
+ (9)  MF  Hamid Estili                       ##   44, Bahman 
+(18)  MF  Sattar Hamedani                    ##    3, Bahman 
+(21)  MF  Mehrdad Minavand                   ##   23, Persepolis 
+(10)  FW  Ali Daei                           ##   50, Arminia Bielefeld 
+(11)  FW  Khodadad Azizi                     ##   27, 1. FC Köln 
+(13)  FW  Ali Latifi                         ##    0, Bahman 
+(19)  FW  Behnam Seraj                       ##    0, Sanat Naft 
+
+
+2006
+23 players
+ (1)  GK  Ebrahim Mirzapour                  ##   64, Foolad (IRN)
+(12)  GK  Hassan Roudbarian                  ##    3, Pas (IRN)
+(22)  GK  Vahid Talebloo                     ##    1, Esteghlal (IRN)
+ (3)  DF  Sohrab Bakhtiarizadeh              ##   31, Saba Battery (IRN)
+ (4)  DF  Yahya Golmohammadi                 ##   69, Saba Battery (IRN)
+ (5)  DF  Rahman Rezaei                      ##   43, Messina (ITA)
+(13)  DF  Hossein Kaebi                      ##   44, Foolad (IRN)
+(19)  DF  Amir Hossein Sadeghi               ##    1, Esteghlal (IRN)
+(20)  DF  Mohammad Nosrati                   ##   44, Pas (IRN)
+ (2)  MF  Mehdi Mahdavikia                   ##   89, Hamburg (GER)
+ (6)  MF  Javad Nekounam                     ##   71, Al-Sharjah (UAE)
+ (7)  MF  Ferydoon Zandi                     ##   10, Kaiserslautern (GER)
+ (8)  MF  Ali Karimi                         ##   90, Bayern Munich (GER)
+(14)  MF  Andranik Teymourian                ##    7, Abu Moslem (IRN)
+(18)  MF  Moharram Navidkia                  ##   24, Bochum (GER)
+(21)  MF  Mehrzad Madanchi                   ##    6, Persepolis (IRN)
+(23)  MF  Masoud Shojaei                     ##    3, Saipa (IRN)
+ (9)  FW  Vahid Hashemian                    ##   28, Hannover 96 (GER)
+(10)  FW  Ali Daei                           ##  147, Saba Battery (IRN)
+(11)  FW  Rasoul Khatibi                     ##   12, Sepahan (IRN)
+(15)  FW  Arash Borhani                      ##   20, Pas (IRN)
+(16)  FW  Reza Enayati                       ##   15, Esteghlal (IRN)
+(17)  FW  Javad Kazemian                     ##   25, Persepolis (IRN)
+
+2014
+ (1)  GK  Rahman Ahmadi                      ##  10, Sepahan (IRN)
+(12)  GK  Alireza Haghighi                   ##   5, Sporting Covilhã (POR)
+(22)  GK  Daniel Davari                      ##   4, Eintracht Braunschweig (GER)
+ (4)  DF  Jalal Hosseini                     ##  84, Persepolis (IRN)
+ (5)  DF  Amir Hossein Sadeghi               ##  16, Esteghlal (IRN)
+(13)  DF  Hossein Mahini                     ##  21, Persepolis (IRN)
+(15)  DF  Pejman Montazeri                   ##  21, Umm Salal (QAT)
+(17)  DF  Ahmad Alenemeh                     ##   9, Naft Tehran (IRN)
+(19)  DF  Hashem Beikzadeh                   ##  17, Esteghlal (IRN)
+(20)  DF  Steven Beitashour                  ##   6, Vancouver Whitecaps (CAN)
+(23)  DF  Mehrdad Pouladi                    ##  19, Persepolis (IRN)
+ (2)  MF  Khosro Heydari                     ##  48, Esteghlal (IRN)
+ (3)  MF  Ehsan Hajsafi                      ##  61, Sepahan (IRN)
+ (6)  MF  Javad Nekounam                     ## 139, Al-Kuwait (KUW)
+ (7)  MF  Masoud Shojaei                     ##  49, Las Palmas (ESP)
+ (8)  MF  Reza Haghighi                      ##   7, Persepolis (IRN)
+(11)  MF  Ghasem Haddadifar                  ##  16, Zob Ahan (IRN)
+(14)  MF  Andranik Teymourian                ##  78, Esteghlal (IRN)
+(18)  MF  Bakhtiar Rahmani                   ##   4, Foolad (IRN)
+(21)  MF  Ashkan Dejagah                     ##  13, Fulham (ENG)
+ (9)  FW  Alireza Jahanbakhsh                ##   6, NEC (NED)
+(10)  FW  Karim Ansarifard                   ##  41, Tractor Sazi (IRN)
+(16)  FW  Reza Ghoochannejhad                ##  13, Charlton Athletic (ENG)
+

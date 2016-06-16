@@ -1,0 +1,129 @@
+England - Squads
+
+1998
+22 players
+ (1)  GK  David Seaman                       ##   40, Arsenal 
+(13)  GK  Nigel Martyn                       ##    7, Leeds United 
+(22)  GK  Tim Flowers                        ##   11, Blackburn Rovers 
+ (2)  DF  Sol Campbell                       ##   16, Tottenham Hotspur 
+ (3)  DF  Graeme Le Saux                     ##   25, Chelsea 
+ (5)  DF  Tony Adams                         ##   51, Arsenal 
+ (6)  DF  Gareth Southgate                   ##   25, Aston Villa 
+(12)  DF  Gary Neville                       ##   27, Manchester United 
+(18)  DF  Martin Keown                       ##   18, Arsenal 
+(21)  DF  Rio Ferdinand                      ##    3, West Ham United 
+ (4)  MF  Paul Ince                          ##   39, Liverpool 
+ (7)  MF  David Beckham                      ##   15, Manchester United 
+ (8)  MF  David Batty                        ##   31, Newcastle United 
+(11)  MF  Steve McManaman                    ##   21, Liverpool 
+(14)  MF  Darren Anderton                    ##   18, Tottenham Hotspur 
+(15)  MF  Paul Merson                        ##   18, Middlesbrough 
+(16)  MF  Paul Scholes                       ##    7, Manchester United 
+(17)  MF  Rob Lee                            ##   17, Newcastle United 
+ (9)  FW  Alan Shearer                       ##   39, Newcastle United 
+(10)  FW  Teddy Sheringham                   ##   33, Manchester United 
+(19)  FW  Les Ferdinand                      ##   17, Tottenham Hotspur 
+(20)  FW  Michael Owen                       ##    5, Liverpool 
+
+2002
+23 players
+ (1)  GK  David Seaman                       ##   68, Arsenal 
+(13)  GK  Nigel Martyn                       ##   22, Leeds United 
+(22)  GK  David James                        ##    9, West Ham United 
+ (2)  DF  Danny Mills                        ##    7, Leeds United 
+ (3)  DF  Ashley Cole                        ##    8, Arsenal 
+ (5)  DF  Rio Ferdinand                      ##   21, Leeds United 
+ (6)  DF  Sol Campbell                       ##   45, Arsenal 
+(12)  DF  Wes Brown                          ##    6, Manchester United 
+(14)  DF  Wayne Bridge                       ##    5, Southampton 
+(15)  DF  Martin Keown                       ##   42, Arsenal 
+(16)  DF  Gareth Southgate                   ##   48, Middlesbrough 
+ (4)  MF  Trevor Sinclair                    ##    5, West Ham United 
+ (7)  MF  David Beckham                      ##   49, Manchester United 
+ (8)  MF  Paul Scholes                       ##   43, Manchester United 
+(18)  MF  Owen Hargreaves                    ##    6, Bayern Munich 
+(19)  MF  Joe Cole                           ##    6, West Ham United 
+(21)  MF  Nicky Butt                         ##   18, Manchester United 
+(23)  MF  Kieron Dyer                        ##    9, Newcastle United 
+ (9)  FW  Robbie Fowler                      ##   24, Leeds United 
+(10)  FW  Michael Owen                       ##   35, Liverpool 
+(11)  FW  Emile Heskey                       ##   23, Liverpool 
+(17)  FW  Teddy Sheringham                   ##   46, Tottenham Hotspur 
+(20)  FW  Darius Vassell                     ##    5, Aston Villa 
+
+2006
+23 players
+ (1)  GK  Paul Robinson                      ##   21, Tottenham Hotspur (ENG)
+(13)  GK  David James                        ##   34, Manchester City (ENG)
+(22)  GK  Scott Carson                       ##    0, Liverpool (ENG)
+ (2)  DF  Gary Neville                       ##   79, Manchester United (ENG)
+ (3)  DF  Ashley Cole                        ##   46, Arsenal (ENG)
+ (5)  DF  Rio Ferdinand                      ##   47, Manchester United (ENG)
+ (6)  DF  John Terry                         ##   24, Chelsea (ENG)
+(12)  DF  Sol Campbell                       ##   68, Arsenal (ENG)
+(14)  DF  Wayne Bridge                       ##   23, Chelsea (ENG)
+(15)  DF  Jamie Carragher                    ##   25, Liverpool (ENG)
+ (4)  MF  Steven Gerrard                     ##   42, Liverpool (ENG)
+ (7)  MF  David Beckham                      ##   89, Real Madrid (ESP)
+ (8)  MF  Frank Lampard                      ##   40, Chelsea (ENG)
+(11)  MF  Joe Cole                           ##   32, Chelsea (ENG)
+(16)  MF  Owen Hargreaves                    ##   30, Bayern Munich (GER)
+(17)  MF  Jermaine Jenas                     ##   15, Tottenham Hotspur (ENG)
+(18)  MF  Michael Carrick                    ##    6, Tottenham Hotspur (ENG)
+(19)  MF  Aaron Lennon                       ##    1, Tottenham Hotspur (ENG)
+(20)  MF  Stewart Downing                    ##    2, Middlesbrough (ENG)
+ (9)  FW  Wayne Rooney                       ##   29, Manchester United (ENG)
+(10)  FW  Michael Owen                       ##   77, Newcastle United (ENG)
+(21)  FW  Peter Crouch                       ##    7, Liverpool (ENG)
+(23)  FW  Theo Walcott                       ##    1, Arsenal (ENG)
+
+2010
+23 players
+ (1)  GK  David James                        ##   50, Portsmouth (ENG)
+(12)  GK  Robert Green                       ##   10, West Ham United (ENG)
+(23)  GK  Joe Hart                           ##    3, Birmingham City (ENG)
+ (2)  DF  Glen Johnson                       ##   22, Liverpool (ENG)
+ (3)  DF  Ashley Cole                        ##   78, Chelsea (ENG)
+ (5)  DF  Michael Dawson                     ##    0, Tottenham Hotspur (ENG)
+ (6)  DF  John Terry                         ##   60, Chelsea (ENG)
+(13)  DF  Stephen Warnock                    ##    1, Aston Villa (ENG)
+(15)  DF  Matthew Upson                      ##   19, West Ham United (ENG)
+(18)  DF  Jamie Carragher                    ##   36, Liverpool (ENG)
+(20)  DF  Ledley King                        ##   20, Tottenham Hotspur (ENG)
+ (4)  MF  Steven Gerrard                     ##   80, Liverpool (ENG)
+ (7)  MF  Aaron Lennon                       ##   17, Tottenham Hotspur (ENG)
+ (8)  MF  Frank Lampard                      ##   78, Chelsea (ENG)
+(11)  MF  Joe Cole                           ##   54, Chelsea (ENG)
+(14)  MF  Gareth Barry                       ##   36, Manchester City (ENG)
+(16)  MF  James Milner                       ##    8, Aston Villa (ENG)
+(17)  MF  Shaun Wright-Phillips              ##   31, Manchester City (ENG)
+(22)  MF  Michael Carrick                    ##   22, Manchester United (ENG)
+ (9)  FW  Peter Crouch                       ##   38, Tottenham Hotspur (ENG)
+(10)  FW  Wayne Rooney                       ##   60, Manchester United (ENG)
+(19)  FW  Jermain Defoe                      ##   39, Tottenham Hotspur (ENG)
+(21)  FW  Emile Heskey                       ##   58, Aston Villa (ENG)
+
+2014
+(1)  GK  Joe Hart                           ##  40, Manchester City (ENG)
+(13)  GK  Ben Foster                         ##   6, West Bromwich Albion (ENG)
+(22)  GK  Fraser Forster                     ##   1, Celtic (SCO)
+ (2)  DF  Glen Johnson                       ##  51, Liverpool (ENG)
+ (3)  DF  Leighton Baines                    ##  23, Everton (ENG)
+ (5)  DF  Gary Cahill                        ##  23, Chelsea (ENG)
+ (6)  DF  Phil Jagielka                      ##  25, Everton (ENG)
+(12)  DF  Chris Smalling                     ##  11, Manchester United (ENG)
+(16)  DF  Phil Jones                         ##   9, Manchester United (ENG)
+(23)  DF  Luke Shaw                          ##   1, Southampton (ENG)
+ (4)  MF  Steven Gerrard                     ## 110, Liverpool (ENG)
+ (7)  MF  Jack Wilshere                      ##  16, Arsenal (ENG)
+ (8)  MF  Frank Lampard                      ## 103, Chelsea (ENG)
+(14)  MF  Jordan Henderson                   ##   9, Liverpool (ENG)
+(15)  MF  Alex Oxlade-Chamberlain            ##  14, Arsenal (ENG)
+(17)  MF  James Milner                       ##  46, Manchester City (ENG)
+(19)  MF  Raheem Sterling                    ##   3, Liverpool (ENG)
+(20)  MF  Adam Lallana                       ##   4, Southampton (ENG)
+(21)  MF  Ross Barkley                       ##   4, Everton (ENG)
+ (9)  FW  Daniel Sturridge                   ##  11, Liverpool (ENG)
+(10)  FW  Wayne Rooney                       ##  90, Manchester United (ENG)
+(11)  FW  Danny Welbeck                      ##  22, Manchester United (ENG)
+(18)  FW  Rickie Lambert                     ##   4, Southampton (ENG)

@@ -1,0 +1,76 @@
+Colombia - squad
+
+1994
+22 players
+(1)  GK  Óscar Córdoba                      ##    -, América de Cali 
+(12)  GK  Farid Mondragón                    ##    -, Argentinos Juniors 
+(22)  GK  José María Pazo                    ##    -, Atlético Junior 
+(2)  DF  Andrés Escobar                     ##    -, Atlético Nacional 
+(3)  DF  Alexis Mendoza                     ##    -, Atlético Junior 
+(4)  DF  Luis Fernando Herrera              ##    -, Atlético Nacional 
+(13)  DF  Néstor Ortiz                       ##    -, Once Caldas 
+(15)  DF  Luis Carlos Perea                  ##    -, Atlético Junior 
+(18)  DF  Óscar Cortés                       ##    -, Millonarios 
+(20)  DF  Wilson Pérez                       ##    -, América de Cali 
+(5)  MF  Hernán Gaviria                     ##    -, Atlético Nacional 
+(6)  MF  Gabriel Gómez                      ##    -, Atlético Nacional 
+(8)  MF  John Harold Lozano                 ##    -, América de Cali 
+(10)  MF  Carlos Valderrama                  ##    -, Atlético Junior 
+(14)  MF  Leonel Álvarez                     ##    -, América de Cali 
+(17)  MF  Mauricio Serna                     ##    -, Atlético Nacional 
+(19)  MF  Freddy Rincón                      ##    -, Palmeiras 
+(7)  FW  Antony de Ávila                    ##    -, América de Cali 
+(9)  FW  Iván Valenciano                    ##    -, Atlético Junior 
+(11)  FW  Adolfo Valencia                    ##    -, Bayern Munich 
+(16)  FW  Víctor Aristizábal                 ##    -, Atlético Nacional 
+(21)  FW  Faustino Asprilla                  ##    -, Parma
+
+1998
+22 players
+(1)  GK  Óscar Córdoba                      ##    -, Boca Juniors 
+(12)  GK  Miguel Calero                      ##    -, Atlético Nacional 
+(22)  GK  Farid Mondragón                    ##    -, Independiente 
+(2)  DF  Iván Córdoba                       ##    -, San Lorenzo 
+(3)  DF  Ever Palacios                      ##    -, Deportivo Cali 
+(4)  DF  José Santa                         ##    -, Atlético Nacional 
+(5)  DF  Jorge Bermúdez                     ##    -, Boca Juniors 
+(13)  DF  Wilmer Cabrera                     ##    -, Millonarios 
+(16)  DF  Luis Antonio Moreno                ##    -, Deportes Tolima 
+(6)  MF  Mauricio Serna                     ##    -, Boca Juniors 
+(8)  MF  John Harold Lozano                 ##    -, Real Valladolid 
+(10)  MF  Carlos Valderrama                  ##    -, Miami Fusion (USA)
+(14)  MF  Jorge Bolaño                       ##    -, Atlético Junior 
+(17)  MF  Andrés Estrada                     ##    -, Deportivo Cali 
+(18)  MF  John Wilmar Pérez                  ##    -, Deportivo Cali 
+(19)  MF  Freddy Rincón                      ##    -, Corinthians 
+(7)  FW  Antony de Ávila                    ##    -, Barcelona 
+(9)  FW  Adolfo Valencia                    ##    -, Independiente Medellín 
+(11)  FW  Faustino Asprilla                  ##    -, Parma 
+(15)  FW  Víctor Aristizábal                 ##    -, São Paulo 
+(20)  FW  Hamilton Ricard                    ##    -, Middlesbrough 
+(21)  FW  Léider Preciado                    ##    -, Santa Fe 
+
+2014
+(1)  GK  David Ospina                       ##  42, Nice (FRA)
+(12)  GK  Camilo Vargas                      ##   0, Santa Fe (COL)
+(22)  GK  Faryd Mondragón                    ##  55, Deportivo Cali (COL)
+(2)  DF  Cristián Zapata                    ##  21, Milan (ITA)
+(3)  DF  Mario Yepes                        ##  96, Atalanta (ITA)
+(4)  DF  Santiago Arias                     ##   5, PSV (NED)
+(7)  DF  Pablo Armero                       ##  51, West Ham United (ENG)
+(16)  DF  Éder Álvarez Balanta               ##   2, River Plate (ARG)
+(18)  DF  Juan Camilo Zúñiga                 ##  52, Napoli (ITA)
+(23)  DF  Carlos Valdés                      ##  13, San Lorenzo (ARG)
+(5)  MF  Carlos Carbonero                   ##  1, River Plate (ARG)
+(6)  MF  Carlos Sánchez                     ##  44, Elche (ESP)
+(8)  MF  Abel Aguilar                       ##  48, Toulouse (FRA)
+(10)  MF  James Rodríguez                    ##  21, AS Monaco (FRA)
+(11)  MF  Juan Guillermo Cuadrado            ##  26, Fiorentina (ITA)
+(13)  MF  Fredy Guarín                       ##  48, Internazionale (ITA)
+(14)  MF  Víctor Ibarbo                      ##   8, Cagliari (ITA)
+(15)  MF  Alexander Mejía                    ##   9, Atlético Nacional (COL)
+(20)  MF  Juan Fernando Quintero             ##   4, Porto (POR)
+(9)  FW  Teófilo Gutiérrez                  ##  29, River Plate (ARG)
+(17)  FW  Carlos Bacca                       ##  10, Sevilla (ESP)
+(19)  FW  Adrián Ramos                       ##  24, Hertha BSC (GER)
+(21)  FW  Jackson Martínez                   ##  27, Porto (POR)

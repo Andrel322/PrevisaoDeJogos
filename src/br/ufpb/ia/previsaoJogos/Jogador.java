@@ -11,20 +11,24 @@ package br.ufpb.ia.previsaoJogos;
  */
 public class Jogador {
     
-    private String name;
+    private String nome;
     private String time;
+    private String numero;
+    private String posicao;
 
-    public Jogador(String name, String time) {
-        this.name = name;
+    public Jogador(String numero, String posicao, String nome, String time) {
+        this.numero = numero;
+        this.posicao = posicao;
+        this.nome = nome;
         this.time = time;
     }
     
-    public String getName() {
-        return name;
+    public String getNome() {
+        return nome;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setNome(String nome) {
+        this.nome = nome;
     }
 
     public String getTime() {

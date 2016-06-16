@@ -4,10 +4,10 @@ Brazil
 (9)  20 June   Brazil      2-0    Russia   @ Stanford Stadium, Stanford
 (19) 24 June   Brazil      3-0    Cameroon   @ Stanford Stadium, Stanford
 (32) 28 June   Brazil      1-1    Sweden   @ Pontiac Silverdome, Pontiac
-(42)  4 July   Brazil        1-0    United States  @ Stanford Stadium, Stanford
+(42)  4 July   Brazil        1-0    UnitedStates  @ Stanford Stadium, Stanford
 (46)  9 July   Netherlands   2-3    Brazil   @ Cotton Bowl, Dallas
 (50) 13 July  Sweden      0-1    Brazil    @ Rose Bowl, Pasadena
-(52) 17 July  Brazil    3-2pen 0-0 aet 0-0    Italy  @ Rose Bowl, Pasadena
+(52) 17 July  Brazil    3-2pen   Italy  @ Rose Bowl, Pasadena
 
 1998
 (1)  10 June    Brazil      2-1    Scotland    @ Stade de France, Saint-Denis
@@ -15,37 +15,37 @@ Brazil
 (35) 23 June    Brazil      1-2    Norway      @ Stade Vélodrome, Marseille
 (49) 27 June   Brazil    4-1    Chile  @ Parc des Princes, Paris
 (58)  3 July    Brazil    3-2    Denmark           @ Stade de la Beaujoire, Nantes
-(61)  7 July  Brazil    4-2pen 1-1aet 1-1    Netherlands   @ Stade Vélodrome, Marseille
+(61)  7 July  Brazil    4-2pen   Netherlands   @ Stade Vélodrome, Marseille
 (64) 12 July   Brazil       0-3    France   @ Stade de France, Saint-Denis
 
 2002
 (10)  3 June   Brazil        2-1    Turkey   @ Munsu Cup Stadium, Ulsan
 (26)  8 June   Brazil        4-0    China   @ Jeju World Cup Stadium, Jeju
-(41) 13 June  Costa Rica    2-5    Brazil   @ Suwon World Cup Stadium, Suwon
+(41) 13 June  CostaRica    2-5  Brazil   @ Suwon World Cup Stadium, Suwon
 (54) 17 June   Brazil    2-0    Belgium        @ Kobe Wing Stadium, Kobe
 (57) 21 June   England    1-2    Brazil    @ Shizuoka Stadium, Shizuoka
 (62) 26 June   Brazil    1-0    Turkey        @ Saitama Stadium, Saitama
 (64) 30 June   Germany    0-2    Brazil        @ International Stadium Yokohama, Yokohama
 
 2006
-(11)  Tue Jun/13    Brazil     1-0 (1-0)  Croatia       @ Olympiastadion, Berlin
-(27)  Sun Jun/18    Brazil     2-0 (0-0)  Australia     @ Allianz Arena, München
-(43)  Thu Jun/22    Japan      1-4 (1-1)  Brazil        @ Signal Iduna Park, Dortmund
-(55)  Tue Jun/27    Brazil       3-0 (2-0)  Ghana           @ Signal Iduna Park, Dortmund
-(60)  Sat Jul/1     Brazil    0-1 (0-0)  France                  @ Commerzbank-Arena, Frankfurt
+(11)  Tue Jun/13    Brazil     1-0  Croatia       @ Olympiastadion, Berlin
+(27)  Sun Jun/18    Brazil     2-0  Australia     @ Allianz Arena, München
+(43)  Thu Jun/22    Japan      1-4  Brazil        @ Signal Iduna Park, Dortmund
+(55)  Tue Jun/27    Brazil       3-0  Ghana           @ Signal Iduna Park, Dortmund
+(60)  Sat Jul/1     Brazil    0-1  France                  @ Commerzbank-Arena, Frankfurt
 
 2010
-(14) Tue Jun/15 20:30   Brazil         2-1  North Korea    @ Ellis Park Stadium, Johannesburg
-(29) Sun Jun/20 20:30   Brazil  3-1  Côte d'Ivoire        @ Soccer City, Johannesburg
-(45) Fri Jun/25 16:00   Portugal     0-0  Brazil          @ Moses Mabhida Stadium, Durban
-(54) Mon Jun/28 20:30   Brazil         3-0              Chile         @ Ellis Park Stadium, Johannesburg
-(57) Fri Jul/2 16:00   Netherlands    2-1               Brazil        @ Nelson Mandela Bay Stadium, Port Elizabeth
+(14) Tue Jun/15   Brazil         2-1  NorthKorea    @ Ellis Park Stadium, Johannesburg
+(29) Sun Jun/20   Brazil  3-1  CôteD'Ivoire        @ Soccer City, Johannesburg
+(45) Fri Jun/25   Portugal     0-0  Brazil          @ Moses Mabhida Stadium, Durban
+(54) Mon Jun/28   Brazil         3-0              Chile         @ Ellis Park Stadium, Johannesburg
+(57) Fri Jul/2   Netherlands    2-1               Brazil        @ Nelson Mandela Bay Stadium, Port Elizabeth
 
 2014
-(1) Thu Jun/12 17:00   Brazil 3-1 (1-1) Croatia       @ Arena de São Paulo, São Paulo (UTC-3)
-(17) Tue Jun/17 16:00   Brazil 0-0 Mexico        @ Estádio Castelão, Fortaleza (UTC-3)
-(33) Mon Jun/23 17:00   Cameroon 1-4 Brazil      @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
-(49) Sat Jun/28 13:00   Brazil      3-2 pen. 1-1 a.e.t. (1-1, 1-1)  Chile    @ Estádio Mineirão, Belo Horizonte (UTC-3)  # 1A - 2B
-(57) Fri Jul/4 17:00   Brazil  2-1 (1-0)  Colombia          @ Estádio Castelão, Fortaleza    # W49 - W50
-(61) Tue Jul/8 17:00  Brazil  1-7 (0-5)  Germany          @ Estádio Mineirão, Belo Horizonte (UTC-3)   # W57 - W58
-(63) Sat Jul/12 17:00  Brazil 0-3 (0-2) Netherlands    @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)   # L61 - L62
+(1) Thu Jun/12   Brazil 3-1 Croatia       @ Arena de São Paulo, São Paulo
+(17) Tue Jun/17   Brazil 0-0 Mexico        @ Estádio Castelão, Fortaleza
+(33) Mon Jun/23   Cameroon 1-4 Brazil      @ Estádio Nacional Mané Garrincha, Brasília
+(49) Sat Jun/28   Brazil 3-2pen Chile    @ Estádio Mineirão, Belo Horizonte
+(57) Fri Jul/4   Brazil  2-1  Colombia          @ Estádio Castelão, Fortaleza
+(61) Tue Jul/8  Brazil  1-7  Germany          @ Estádio Mineirão, Belo Horizonte
+(63) Sat Jul/12  Brazil 0-3 Netherlands    @ Estádio Nacional Mané Garrincha, Brasília

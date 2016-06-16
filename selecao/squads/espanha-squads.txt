@@ -1,0 +1,155 @@
+Spain - squad
+
+1994
+22 players
+(1)  GK  Andoni Zubizarreta                 ##   87, Barcelona 
+(13)  GK  Santiago Cañizares                 ##    4, Celta Vigo 
+(22)  GK  Julen Lopetegui                    ##    1, Logroñés 
+(2)  DF  Albert Ferrer                      ##   16, Barcelona 
+(3)  DF  Jorge Otero                        ##    5, Celta Vigo 
+(4)  DF  Francisco José Camarasa            ##    9, Valencia 
+(5)  DF  Abelardo                           ##    9, Sporting Gijón 
+(12)  DF  Sergi                              ##    2, Barcelona 
+(17)  DF  Voro                               ##    4, Deportivo La Coruña 
+(18)  DF  Rafael Alkorta                     ##   19, Real Madrid 
+(20)  DF  Miguel Ángel Nadal                 ##   11, Barcelona 
+(6)  MF  Fernando Hierro                    ##   23, Real Madrid 
+(7)  MF  Ion Andoni Goikoetxea              ##   22, Barcelona 
+(8)  MF  Julen Guerrero                     ##    9, Athletic Bilbao 
+(9)  MF  Josep Guardiola                    ##   11, Barcelona 
+(10)  MF  José Mari Bakero                   ##   25, Barcelona 
+(11)  MF  Txiki Begiristain                  ##   21, Barcelona 
+(15)  MF  José Luis Caminero                 ##    4, Atlético Madrid 
+(21)  MF  Luis Enrique                       ##    5, Real Madrid 
+(14)  FW  Juanele                            ##    4, Sporting Gijón 
+(16)  FW  Felipe Miñambres                   ##    4, Tenerife 
+(19)  FW  Julio Salinas                      ##   43, Barcelona 
+
+1998
+22 players
+(1)  GK  Andoni Zubizarreta                 ##  123, Valencia 
+(13)  GK  Santiago Cañizares                 ##   10, Real Madrid 
+(22)  GK  José Molina                        ##    1, Atlético Madrid 
+(2)  DF  Albert Ferrer                      ##   34, Barcelona 
+(3)  DF  Agustín Aranzábal                  ##    6, Real Sociedad 
+(4)  DF  Rafael Alkorta                     ##   48, Athletic Bilbao 
+(5)  DF  Abelardo                           ##   40, Barcelona 
+(6)  DF  Fernando Hierro                    ##   55, Real Madrid 
+(12)  DF  Sergi                              ##   33, Barcelona 
+(14)  DF  Iván Campo                         ##    2, Mallorca 
+(15)  DF  Carlos Aguilera                    ##    4, Atlético Madrid 
+(20)  DF  Miguel Ángel Nadal                 ##   43, Barcelona 
+(8)  MF  Julen Guerrero                     ##   31, Athletic Bilbao 
+(16)  MF  Albert Celades                     ##    1, Barcelona 
+(17)  MF  Joseba Etxeberria                  ##    4, Athletic Bilbao 
+(18)  MF  Guillermo Amor                     ##   33, Barcelona 
+(21)  MF  Luis Enrique                       ##   35, Barcelona 
+(7)  FW  Fernando Morientes                 ##    2, Real Madrid 
+(9)  FW  Juan Antonio Pizzi                 ##   21, Barcelona 
+(10)  FW  Raúl                               ##   13, Real Madrid 
+(11)  FW  Alfonso                            ##   26, Real Betis 
+(19)  FW  Kiko                               ##   21, Atlético Madrid 
+
+2002
+23 players
+(1)  GK  Iker Casillas                      ##   13, Real Madrid 
+(13)  GK  Ricardo                            ##    1, Real Valladolid 
+(23)  GK  Pedro Contreras                    ##    0, Málaga 
+(2)  DF  Curro Torres                       ##    4, Valencia 
+(3)  DF  Juanfran                           ##    7, Celta Vigo 
+(5)  DF  Carles Puyol                       ##    8, Barcelona 
+(6)  DF  Fernando Hierro                    ##   85, Real Madrid 
+(15)  DF  Enrique Romero                     ##    3, Deportivo La Coruña 
+(20)  DF  Miguel Ángel Nadal                 ##   59, Mallorca 
+(4)  MF  Iván Helguera                      ##   22, Real Madrid 
+(8)  MF  Rubén Baraja                       ##    9, Valencia 
+(14)  MF  David Albelda                      ##    2, Valencia 
+(16)  MF  Gaizka Mendieta                    ##   32, Lazio 
+(17)  MF  Juan Carlos Valerón                ##   20, Deportivo La Coruña 
+(18)  MF  Sergio                             ##    5, Deportivo La Coruña 
+(19)  MF  Xavi                               ##    3, Barcelona 
+(21)  MF  Luis Enrique                       ##   57, Barcelona 
+(22)  MF  Joaquín                            ##    3, Real Betis 
+(7)  FW  Raúl                               ##   51, Real Madrid 
+(9)  FW  Fernando Morientes                 ##   19, Real Madrid 
+(10)  FW  Diego Tristán                      ##    7, Deportivo La Coruña 
+(11)  FW  Javier de Pedro                    ##    5, Real Sociedad 
+(12)  FW  Albert Luque                       ##    0, Mallorca 
+
+
+2006
+23 players
+(1)  GK  Iker Casillas                      ##   58, Real Madrid (ESP)
+(19)  GK  Santiago Cañizares                 ##   45, Valencia (ESP)
+(23)  GK  Pepe Reina                         ##    3, Liverpool (ENG)
+(2)  DF  Míchel Salgado                     ##   50, Real Madrid (ESP)
+(3)  DF  Mariano Pernía                     ##    1, Getafe (ESP)
+(4)  DF  Carlos Marchena                    ##   27, Valencia (ESP)
+(5)  DF  Carles Puyol                       ##   47, Barcelona (ESP)
+(12)  DF  Antonio López                      ##    8, Atlético Madrid (ESP)
+(15)  DF  Sergio Ramos                       ##   11, Real Madrid (ESP)
+(20)  DF  Juanito                            ##   15, Real Betis (ESP)
+(22)  DF  Pablo                              ##   11, Atlético Madrid (ESP)
+(6)  MF  David Albelda                      ##   33, Valencia (ESP)
+(8)  MF  Xavi                               ##   36, Barcelona (ESP)
+(10)  MF  José Antonio Reyes                 ##   19, Arsenal (ENG)
+(11)  MF  Luis García                        ##   10, Liverpool (ENG)
+(13)  MF  Andrés Iniesta                     ##    3, Barcelona (ESP)
+(14)  MF  Xabi Alonso                        ##   26, Liverpool (ENG)
+(16)  MF  Marcos Senna                       ##    3, Villarreal (ESP)
+(17)  MF  Joaquín                            ##   38, Real Betis (ESP)
+(18)  MF  Cesc Fàbregas                      ##    4, Arsenal (ENG)
+(7)  FW  Raúl                               ##   95, Real Madrid (ESP)
+(9)  FW  Fernando Torres                    ##   30, Atlético Madrid (ESP)
+(21)  FW  David Villa                        ##    8, Valencia (ESP)
+
+2010
+23 players
+(1)  GK  Iker Casillas                      ##  104, Real Madrid (ESP)
+(12)  GK  Víctor Valdés                      ##    1, Barcelona (ESP)
+(23)  GK  Pepe Reina                         ##   20, Liverpool (ENG)
+(2)  DF  Raúl Albiol                        ##   23, Real Madrid (ESP)
+(3)  DF  Gerard Piqué                       ##   16, Barcelona (ESP)
+(4)  DF  Carlos Marchena                    ##   59, Valencia (ESP)
+(5)  DF  Carles Puyol                       ##   83, Barcelona (ESP)
+(11)  DF  Joan Capdevila                     ##   46, Villarreal (ESP)
+(15)  DF  Sergio Ramos                       ##   60, Real Madrid (ESP)
+(17)  DF  Álvaro Arbeloa                     ##   15, Real Madrid (ESP)
+(6)  MF  Andrés Iniesta                     ##   43, Barcelona (ESP)
+(8)  MF  Xavi                               ##   87, Barcelona (ESP)
+(10)  MF  Cesc Fàbregas                      ##   49, Arsenal (ENG)
+(13)  MF  Juan Mata                          ##    8, Valencia (ESP)
+(14)  MF  Xabi Alonso                        ##   69, Real Madrid (ESP)
+(16)  MF  Sergio Busquets                    ##   13, Barcelona (ESP)
+(20)  MF  Javi Martínez                      ##    2, Athletic Bilbao (ESP)
+(21)  MF  David Silva                        ##   36, Valencia (ESP)
+(22)  MF  Jesús Navas                        ##    6, Sevilla (ESP)
+(7)  FW  David Villa                        ##   58, Valencia (ESP)
+(9)  FW  Fernando Torres                    ##   73, Liverpool (ENG)
+(18)  FW  Pedro                              ##    3, Barcelona (ESP)
+(19)  FW  Fernando Llorente                  ##    7, Athletic Bilbao (ESP)
+
+2014
+(1)  GK  Iker Casillas                      ## 153, Real Madrid (ESP)
+(12)  GK  David de Gea                       ##   0, Manchester United (ENG)
+(23)  GK  Pepe Reina                         ##  31, Napoli (ITA)
+(2)  DF  Raúl Albiol                        ##  46, Napoli (ITA)
+(3)  DF  Gerard Piqué                       ##  60, Barcelona (ESP)
+(5)  DF  Juanfran                           ##   6, Atlético Madrid (ESP)
+(15)  DF  Sergio Ramos                       ## 115, Real Madrid (ESP)
+(18)  DF  Jordi Alba                         ##  25, Barcelona (ESP)
+(22)  DF  César Azpilicueta                  ##   6, Chelsea (ENG)
+(4)  MF  Javi Martínez                      ##  16, Bayern Munich (GER)
+(6)  MF  Andrés Iniesta                     ##  95, Barcelona (ESP)
+(8)  MF  Xavi                               ## 131, Barcelona (ESP)
+(10)  MF  Cesc Fàbregas                      ##  88, Barcelona (ESP)
+(13)  MF  Juan Mata                          ##  32, Manchester United (ENG)
+(14)  MF  Xabi Alonso                        ## 109, Real Madrid (ESP)
+(16)  MF  Sergio Busquets                    ##  64, Barcelona (ESP)
+(17)  MF  Koke                               ##   7, Atlético Madrid (ESP)
+(20)  MF  Santi Cazorla                      ##  62, Arsenal (ENG)
+(21)  MF  David Silva                        ##  79, Manchester City (ENG)
+(7)  FW  David Villa                        ##  94, Atlético Madrid (ESP)
+(9)  FW  Fernando Torres                    ## 107, Chelsea (ENG)
+(11)  FW  Pedro                              ##  38, Barcelona (ESP)
+(19)  FW  Diego Costa                        ##   1, Atlético Madrid (ESP)

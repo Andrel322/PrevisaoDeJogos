@@ -5,6 +5,8 @@
  */
 package br.ufpb.ia.previsaoJogos;
 
+import java.util.StringTokenizer;
+
 /**
  *
  * @author andrel
@@ -13,11 +15,31 @@ public class Jogo {
     private String selecao;
     private String estadio;
     private String data;
+    private String placar;
+    private String resultado;
 
-    public Jogo(String selecao, String estadio, String data) {
+    public Jogo(String data, String selecao, String placar, String estadio) {
         this.selecao = selecao;
         this.estadio = estadio;
         this.data = data;
+        this.placar = placar;
+        this.resultado = getVencedor(placar);
+    }
+
+    public String getPlacar() {
+        return placar;
+    }
+
+    public void setPlacar(String placar) {
+        this.placar = placar;
+    }
+
+    public String getResultado() {
+        return resultado;
+    }
+
+    public void setResultado(String resultado) {
+        this.resultado = resultado;
     }
 
     public String getSelecao() {
@@ -43,5 +65,21 @@ public class Jogo {
 
     public void setEstadio(String estadio) {
         this.estadio = estadio;
+    }
+    
+    public static String getVencedor(String placar){
+        StringTokenizer token = new StringTokenizer(placar);
+        String selecaoA = token.nextToken();
+        String resul = token.nextToken();
+        char resulA = resul.charAt(0);
+        char resulB = resul.charAt(2);
+        String selecaoB = token.nextToken();
+        if((int) resulA > (int) resulB){
+            return selecaoA;
+        }
+        else if((int) resulA == (int) resulB){
+            return "empate";
+        }
+        return selecaoB;
     }
 }
