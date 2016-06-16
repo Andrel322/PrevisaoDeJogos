@@ -22,10 +22,9 @@ import javax.swing.JOptionPane;
  */
 public class Previsao {
 
-    private static List<Selecao> selecoes = new LinkedList<Selecao>();
+    private static List<Selecao> selecoes = new LinkedList<Selecao>(); // Variavel geral para guarda o historico das seleçoes selecionadas.
 
     public static void main(String[] args) {
-        Jogo jogo;
         String nomeA = JOptionPane.showInputDialog("Qual a seleçao?");
         if (nomeA != null) {
             nomeA = lerSelecao(nomeA);
@@ -48,8 +47,9 @@ public class Previsao {
         getPrevisao(selecaoA, selecaoB, estadio);
     }
 
+    //Funçao que le o arquivo da selecao passada e guarda seu historico na variavel geral de Seleçoes.
     public static String lerSelecao(String nomeSelecao) {
-        String linha;
+        String linha; // Variavel para capturar as linhas do arquivo;
         String nome = null; // Variavel para capturar nome da seleçao.
         String ano; // Variavel para capturar ano da seleçao.
         String data; // Variavel para capturar data do jogo.
@@ -57,9 +57,9 @@ public class Previsao {
         String selecaoB; // Variavel para capturar a segunda seleçao do placar
         String placar; // Variavel para capturar o placar completo (com as seleçoes e resultado) do jogo
         String estadio;// Variavel para capturar o nome do estadio do jogo
-        BufferedReader arq;
-        StringTokenizer token;
-        StringTokenizer tokenNome;
+        BufferedReader arq; // Variavel Buffer para o arquivo
+        StringTokenizer token; // Variavel Token para uso do arquivo em geral.
+        StringTokenizer tokenNome; // Variavel Token para organizar nome do arquivo.
         try {
             tokenNome = new StringTokenizer(nomeSelecao);
             nomeSelecao = tokenNome.nextToken();
@@ -104,6 +104,7 @@ public class Previsao {
         return nome;
     }
 
+    //Funçao para gerar a previsao entre a selecao "A" e selecao "B" usando os jogos anteriores, com os jogadores e estadio.
     public static void getPrevisao(Selecao selecaoA, Selecao selecaoB, String estadio) {
         double porceA, porceB, porceS, resul;
         double maior = 0;
@@ -134,6 +135,7 @@ public class Previsao {
        JOptionPane.showMessageDialog(null,maior + "% = " + "Placar: " + jogoEscolhido.getPlacar() + " Campeao: " + jogoEscolhido.getResultado());
     }
 
+    //Funçao que busca uma selecao no geral e retorna uma lista com ela em todas as copas.
     public static List<Selecao> buscaSelecaoNome(String name) {
         List<Selecao> hSelecao = new LinkedList<Selecao>();
         for (int i = 0; i < selecoes.size(); i++) {
@@ -144,6 +146,7 @@ public class Previsao {
         return hSelecao;
     }
 
+    //Funçao que busca a seleçao exata do ano passado, em uma lista passada.
     public static Selecao buscaSelecaoAno(List<Selecao> selecoes, String ano) {
         for (Selecao selecao : selecoes) {
             if (selecao.getAno().equals(ano)) {
@@ -153,6 +156,10 @@ public class Previsao {
         return null;
     }
 
+    /**
+     * Funçao que compara os jogadores de duas seleçoes, retornando a porcentagem de jogadores contidos.
+     * Usado para comparar a seleçao selecionada com seu historico.
+     **/
     public static double compararJogadores(Selecao selecaoA, Selecao selecaoB) {
         int i = 0;
         double result;

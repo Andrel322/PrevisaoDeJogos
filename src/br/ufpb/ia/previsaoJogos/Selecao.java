@@ -65,6 +65,10 @@ public class Selecao {
         this.jogadores = jogadores;
     }
 
+    /*
+    * Funçao que le o arquivo que possui os jogadores da seleçao atual.
+    * Ela seleciona apenas o jogadores do ano da seleçao.
+    */
     public void lerJogadores() {
         String linha;
         BufferedReader arq;
@@ -79,11 +83,11 @@ public class Selecao {
 
         try {
             arq = new BufferedReader(new FileReader("./selecao/squads/" + this.nome.toLowerCase() + "-squad.txt"));
-            arq.readLine();
-            arq.readLine();
-            while(!ano.equals(arq.readLine()) && arq.ready()){
+            arq.readLine();// Pula o nome
+            arq.readLine();// Pula linha em branco
+            while(!ano.equals(arq.readLine()) && arq.ready()){ //Passa linhas ate encontrar o ano da seleçao
             }
-            arq.readLine();
+            arq.readLine();// Pula a quantidade de jogadores
 
             while((linha = arq.readLine()).length() > 1 && arq.ready()){
                 token = new StringTokenizer(linha);

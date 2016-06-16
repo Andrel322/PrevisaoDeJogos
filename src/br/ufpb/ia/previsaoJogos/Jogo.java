@@ -67,6 +67,7 @@ public class Jogo {
         this.estadio = estadio;
     }
     
+    //Funçao que recebe a variavel placar e gera o resultado atraves da busca detalhada do valor do placar.
     public static String getVencedor(String placar){
         StringTokenizer token = new StringTokenizer(placar);
         String selecaoA = token.nextToken();
