@@ -30,6 +30,7 @@ public class Selecao {
         this.ano = ano;
         jogos = new LinkedList<Jogo>();
         jogadores = new LinkedList<Jogador>();
+        lerJogadores();
     }
 
     public String getNome() {
@@ -56,7 +57,15 @@ public class Selecao {
         this.jogos = jogos;
     }
 
-    public void lerJogadores(String nomeSelecao) {
+    public List<Jogador> getJogadores() {
+        return jogadores;
+    }
+
+    public void setJogadores(List<Jogador> jogadores) {
+        this.jogadores = jogadores;
+    }
+
+    public void lerJogadores() {
         String linha;
         BufferedReader arq;
         StringTokenizer token;
@@ -69,13 +78,12 @@ public class Selecao {
         int numJogadores;
 
         try {
-            arq = new BufferedReader(new FileReader("./selecao/squads/" + nomeSelecao.toLowerCase() + "-squads.txt"));
+            arq = new BufferedReader(new FileReader("./selecao/squads/" + this.nome.toLowerCase() + "-squads.txt"));
             arq.readLine();
             arq.readLine();
             while(!ano.equals(arq.readLine()) && arq.ready()){
             }
             arq.readLine();
-            System.out.println(ano);
 
             while((linha = arq.readLine()).length() > 1 && arq.ready()){
                 token = new StringTokenizer(linha);
@@ -92,7 +100,6 @@ public class Selecao {
                 if(token.hasMoreTokens()){
                     time = token.nextToken("");
                 }
-                System.out.println("Nome: " + nome + " posicao: " + posicao + " numero: " + numero + " time: " + time);
                 jogador = new Jogador(numero, posicao, nome, time);
                 jogadores.add(jogador);
             }
