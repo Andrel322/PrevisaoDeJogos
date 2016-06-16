@@ -1,0 +1,53 @@
+Poland - squad
+
+2002
+23 players
+(1)  GK  Jerzy Dudek                        ##   21, Liverpool 
+(12)  GK  Radoslaw Majdan                    ##    5, Göztepe 
+(22)  GK  Adam Matysek                       ##   34, RKS Radomsko 
+(2)  DF  Tomasz Klos                        ##   37, 1. FC Kaiserslautern 
+(3)  DF  Jacek Zielinski                    ##   52, Legia Warszawa 
+(6)  DF  Tomasz Hajto                       ##   44, Schalke 04 
+(13)  DF  Arkadiusz Glowacki                 ##    2, Wisla Kraków 
+(15)  DF  Tomasz Waldoch                     ##   71, Schalke 04 
+(16)  DF  Maciej Murawski                    ##    4, Legia Warszawa 
+(20)  DF  Jacek Bak                          ##   36, Lens 
+(4)  MF  Michal Zewlakow                    ##   25, Mouscron 
+(5)  MF  Tomasz Rzasa                       ##    9, Feyenoord 
+(7)  MF  Piotr Swierczewski                 ##   65, Marseille 
+(10)  MF  Radoslaw Kaluzny                   ##   30, Energie Cottbus 
+(17)  MF  Arkadiusz Bak                      ##   12, Widzew Lódz 
+(18)  MF  Jacek Krzynówek                    ##   23, 1. FC Nürnberg 
+(21)  MF  Marek Kozminski                    ##   42, Ancona 
+(23)  MF  Pawel Sibik                        ##    2, Odra Wodzislaw 
+(8)  FW  Cezary Kucharski                   ##   15, Legia Warszawa 
+(9)  FW  Pawel Kryszalowicz                 ##   23, Eintracht Frankfurt 
+(11)  FW  Emmanuel Olisadebe                 ##   16, Panathinaikos 
+(14)  FW  Marcin Zewlakow                    ##   17, Mouscron 
+(19)  FW  Maciej Zurawski                    ##    9, Wisla Kraków 
+
+2006
+23 players
+(1)  GK  Artur Boruc                        ##   17, Celtic (SCO)
+(12)  GK  Tomasz Kuszczak                    ##    4, West Bromwich Albion (ENG)
+(22)  GK  Lukasz Fabianski                   ##    2, Legia Warszawa (POL)
+(2)  DF  Mariusz Jop                        ##   12, FC Moscow (RUS)
+(3)  DF  Seweryn Gancarczyk                 ##    2, Metalist Kharkiv (UKR)
+(4)  DF  Marcin Baszczynski                 ##   32, Wisla Kraków (POL)
+(6)  DF  Jacek Bak                          ##   72, Al-Rayyan (QAT)
+(14)  DF  Michal Zewlakow                    ##   56, Anderlecht (BEL)
+(18)  DF  Mariusz Lewandowski                ##   25, Shakhtar Donetsk (UKR)
+(19)  DF  Bartosz Bosacki                    ##   11, Lech Poznan (POL)
+(7)  MF  Radoslaw Sobolewski                ##   19, Wisla Kraków (POL)
+(8)  MF  Jacek Krzynówek                    ##   58, Bayer Leverkusen (GER)
+(10)  MF  Miroslaw Szymkowiak                ##   29, Trabzonspor (TUR)
+(13)  MF  Sebastian Mila                     ##   27, Austria Wien (AUT)
+(16)  MF  Arkadiusz Radomski                 ##   20, Austria Vienna (AUT)
+(17)  MF  Dariusz Dudka                      ##    7, Wisla Kraków (POL)
+(20)  MF  Piotr Giza                         ##    4, Cracovia (POL)
+(5)  FW  Kamil Kosowski                     ##   45, Kaiserslautern (GER)
+(9)  FW  Maciej Zurawski                    ##   50, Celtic (SCO)
+(11)  FW  Grzegorz Rasiak                    ##   30, Tottenham Hotspur (ENG)
+(15)  FW  Euzebiusz Smolarek                 ##   13, Borussia Dortmund (GER)
+(21)  FW  Ireneusz Jelen                     ##    9, Wisla Plock (POL)
+(23)  FW  Pawel Brozek                       ##    4, Wisla Kraków (POL)

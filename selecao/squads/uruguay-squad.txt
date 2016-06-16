@@ -1,0 +1,78 @@
+Uruguay - squad
+
+2002
+23 players
+(1)  GK  Fabián Carini                      ##   35, Juventus 
+(12)  GK  Gustavo Munúa                      ##    9, Nacional 
+(23)  GK  Federico Elduayen                  ##    1, Peñarol 
+(2)  DF  Gustavo Méndez                     ##   45, Nacional 
+(3)  DF  Alejandro Lembo                    ##   31, Nacional 
+(4)  DF  Paolo Montero                      ##   45, Juventus 
+(6)  DF  Darío Rodríguez                    ##   21, Peñarol 
+(14)  DF  Gonzalo Sorondo                    ##   18, Internazionale 
+(19)  DF  Joe Bizera                         ##    9, Peñarol 
+(5)  MF  Pablo García                       ##   36, Venezia 
+(7)  MF  Gianni Guigou                      ##   36, Roma 
+(10)  MF  Fabián O'Neill                     ##   19, Perugia 
+(16)  MF  Marcelo Romero                     ##   22, Málaga 
+(17)  MF  Mario Regueiro                     ##   14, Racing de Santander 
+(22)  MF  Gonzalo de los Santos              ##   28, Valencia 
+(8)  FW  Gustavo Varela                     ##    7, Nacional 
+(9)  FW  Darío Silva                        ##   36, Málaga 
+(11)  FW  Federico Magallanes                ##   24, Venezia 
+(13)  FW  Sebastián Abreu                    ##   13, Cruz Azul 
+(15)  FW  Nicolás Olivera                    ##   26, Sevilla 
+(18)  FW  Richard Morales                    ##   12, Nacional 
+(20)  FW  Álvaro Recoba                      ##   43, Internazionale 
+(21)  FW  Diego Forlán                       ##    4, Manchester United 
+
+2010
+23 players
+(1)  GK  Fernando Muslera                   ##    6, Lazio (ITA)
+(12)  GK  Juan Castillo                      ##   11, Deportivo Cali (COL)
+(23)  GK  Martín Silva                       ##    1, Defensor Sporting (URU)
+(2)  DF  Diego Lugano                       ##   42, Fenerbahçe (TUR)
+(3)  DF  Diego Godín                        ##   38, Villarreal (ESP)
+(4)  DF  Jorge Fucile                       ##   24, Porto (POR)
+(6)  DF  Mauricio Victorino                 ##    4, Universidad de Chile (CHI)
+(16)  DF  Maxi Pereira                       ##   37, Benfica (POR)
+(19)  DF  Andrés Scotti                      ##   26, Colo-Colo (CHI)
+(22)  DF  Martín Cáceres                     ##   19, Sevilla (ESP)
+(5)  MF  Walter Gargano                     ##   28, Napoli (ITA)
+(8)  MF  Sebastián Eguren                   ##   27, AIK (SWE)
+(11)  MF  Álvaro Pereira                     ##   15, Porto (POR)
+(14)  MF  Nicolás Lodeiro                    ##    4, Ajax (NED)
+(15)  MF  Diego Pérez                        ##   50, AS Monaco (FRA)
+(17)  MF  Egidio Arévalo Ríos                ##    6, Peñarol (URU)
+(18)  MF  Ignacio González                   ##   17, Valencia (ESP)
+(20)  MF  Álvaro Fernández                   ##    7, Universidad de Chile (CHI)
+(7)  FW  Edinson Cavani                     ##   14, Palermo (ITA)
+(9)  FW  Luis Suárez                        ##   30, Ajax (NED)
+(10)  FW  Diego Forlán                       ##   62, Atlético Madrid (ESP)
+(13)  FW  Sebastián Abreu                    ##   56, Botafogo (BRA)
+(21)  FW  Sebastián Fernández                ##    6, Banfield (ARG)
+
+2014
+(1)  GK  Fernando Muslera                   ##  57, Galatasaray (TUR)
+(12)  GK  Rodrigo Muñoz                      ##   0, Libertad (PAR)
+(23)  GK  Martín Silva                       ##   4, Vasco da Gama (BRA)
+(2)  DF  Diego Lugano                       ##  93, West Bromwich Albion (ENG)
+(3)  DF  Diego Godín                        ##  76, Atlético Madrid (ESP)
+(4)  DF  Sebastián Coates                   ##  14, Nacional (URU)
+(13)  DF  Jorge Fucile                       ##  41, Porto (POR)
+(16)  DF  Maxi Pereira                       ##  89, Benfica (POR)
+(19)  DF  José María Giménez                 ##   5, Atlético Madrid (ESP)
+(22)  DF  Martín Cáceres                     ##  56, Juventus (ITA)
+(5)  MF  Walter Gargano                     ##  62, Parma (ITA)
+(6)  MF  Álvaro Pereira                     ##  56, São Paulo (BRA)
+(7)  MF  Cristian Rodríguez                 ##  72, Atlético Madrid (ESP)
+(14)  MF  Nicolás Lodeiro                    ##  26, Botafogo (BRA)
+(15)  MF  Diego Pérez                        ##  89, Bologna (ITA)
+(17)  MF  Egidio Arévalo Ríos                ##  54, Morelia (MEX)
+(18)  MF  Gastón Ramírez                     ##  28, Southampton (ENG)
+(20)  MF  Álvaro González                    ##  42, Lazio (ITA)
+(8)  FW  Abel Hernández                     ##  12, Palermo (ITA)
+(9)  FW  Luis Suárez                        ##  77, Liverpool (ENG)
+(10)  FW  Diego Forlán                       ## 109, Cerezo Osaka (JPN)
+(11)  FW  Christian Stuani                   ##   9, Espanyol (ESP)
+(21)  FW  Edinson Cavani                     ##  61, Paris Saint-Germain (FRA)

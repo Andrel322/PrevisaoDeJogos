@@ -12,6 +12,6 @@ Australia
 (40) Wed Jun/23   Australia     2-1 Serbia          @ Mbombela Stadium, Nelspruit
 
 2014
-(4) Fri Jun/13 Chile 3-1 Australia       @ Arena Pantanal, Cuiabá
-(20) Wed Jun/18  Australia 2-3 Netherlands   @ Estádio Beira-Rio, Porto Alegre
-(35) Mon Jun/23 Australia 0-3 Spain         @ Arena da Baixada, Curitiba
+(4) Fri Jun/13 Chile 3-1 Australia       @ Arena Pantanal, Cuiabá (UTC-4)
+(20) Wed Jun/18  Australia 2-3 Netherlands   @ Estádio Beira-Rio, Porto Alegre (UTC-3)
+(35) Mon Jun/23 Australia 0-3 Spain         @ Arena da Baixada, Curitiba (UTC-3)

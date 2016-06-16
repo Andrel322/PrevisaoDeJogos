@@ -1,0 +1,154 @@
+United States - squad
+
+1994
+22 players
+(1)  GK  Tony Meola                         ##    -, Buffalo Blizzard 
+(12)  GK  Juergen Sommer                     ##    -, Luton Town 
+(18)  GK  Brad Friedel                       ##    -, Newcastle United 
+(2)  DF  Mike Lapper                        ##    -, VfL Wolfsburg 
+(3)  DF  Mike Burns                         ##    -, Viborg 
+(4)  DF  Cle Kooiman                        ##    -, Cruz Azul 
+(5)  DF  Thomas Dooley                      ##    -, Bayer Leverkusen 
+(17)  DF  Marcelo Balboa                     ##    -, León 
+(20)  DF  Paul Caligiuri                     ##    -, SC Freiburg 
+(21)  DF  Fernando Clavijo                   ##    -, St. Louis Storm 
+(22)  DF  Alexi Lalas                        ##    -, Padova 
+(6)  MF  John Harkes                        ##    -, Derby County 
+(7)  MF  Hugo Perez                         ##    -, San Diego Sockers 
+(9)  MF  Tab Ramos                          ##    -, Real Betis 
+(13)  MF  Cobi Jones                         ##    -, Coventry City 
+(16)  MF  Mike Sorber                        ##    -, UNAM Pumas 
+(19)  MF  Claudio Reyna                      ##    -, Virginia Cavaliers 
+(8)  FW  Earnie Stewart                     ##    -, Willem II 
+(10)  FW  Roy Wegerle                        ##    -, Coventry City 
+(11)  FW  Eric Wynalda                       ##    -, 1. FC Saarbrücken 
+(14)  FW  Frank Klopas                       ##    -, AEK Athens FC 
+(15)  FW  Joe-Max Moore                      ##    -, 1. FC Saarbrücken 
+
+1998
+22 players
+(1)  GK  Brad Friedel                       ##   56, Liverpool 
+(16)  GK  Juergen Sommer                     ##    8, Columbus Crew (USA)
+(18)  GK  Kasey Keller                       ##   33, Leicester City 
+(2)  DF  Frankie Hejduk                     ##   11, Tampa Bay Mutiny (USA)
+(3)  DF  Eddie Pope                         ##   23, D.C. United (USA)
+(4)  DF  Mike Burns                         ##   73, New England Revolution (USA)
+(5)  DF  Thomas Dooley                      ##   77, Columbus Crew (USA)
+(6)  DF  David Regis                        ##    2, Karlsruher SC 
+(12)  DF  Jeff Agoos                         ##   87, D.C. United (USA)
+(17)  DF  Marcelo Balboa                     ##  126, Colorado Rapids (USA)
+(22)  DF  Alexi Lalas                        ##   98, MetroStars (USA)
+(8)  MF  Earnie Stewart                     ##   47, NAC Breda 
+(10)  MF  Tab Ramos                          ##   80, MetroStars (USA)
+(13)  MF  Cobi Jones                         ##  107, Los Angeles Galaxy (USA)
+(14)  MF  Predrag Radosavljevic              ##   24, Kansas City Wizards (USA)
+(15)  MF  Chad Deering                       ##   10, VfL Wolfsburg 
+(19)  MF  Brian Maisonneuve                  ##    7, Columbus Crew (USA)
+(21)  MF  Claudio Reyna                      ##   59, VfL Wolfsburg 
+(7)  FW  Roy Wegerle                        ##   39, Tampa Bay Mutiny (USA)
+(9)  FW  Joe-Max Moore                      ##   68, New England Revolution (USA)
+(11)  FW  Eric Wynalda                       ##  100, San Jose Clash (USA)
+(20)  FW  Brian McBride                      ##   21, Columbus Crew (USA)
+
+2002
+23 players
+(1)  GK  Brad Friedel                       ##   74, Blackburn Rovers 
+(18)  GK  Kasey Keller                       ##   58, Tottenham Hotspur 
+(19)  GK  Tony Meola                         ##   98, Kansas City Wizards (USA)
+(3)  DF  Gregg Berhalter                    ##   25, Crystal Palace 
+(4)  DF  Pablo Mastroeni                    ##    8, Miami Fusion (USA)
+(6)  DF  David Regis                        ##   28, Metz 
+(12)  DF  Jeff Agoos                         ##  127, San Jose Earthquakes (USA)
+(14)  DF  Steve Cherundolo                   ##   10, Hannover 96 
+(16)  DF  Carlos Llamosa                     ##   26, New England Revolution (USA)
+(22)  DF  Tony Sanneh                        ##   29, 1. FC Nürnberg 
+(23)  DF  Eddie Pope                         ##   48, D.C. United (USA)
+(2)  MF  Frankie Hejduk                     ##   38, Bayer Leverkusen 
+(5)  MF  John O'Brien                       ##   13, Ajax 
+(7)  MF  Eddie Lewis                        ##   38, Fulham 
+(8)  MF  Earnie Stewart                     ##   77, NAC Breda 
+(10)  MF  Claudio Reyna                      ##   86, Sunderland 
+(13)  MF  Cobi Jones                         ##  153, LA Galaxy (USA)
+(17)  MF  DaMarcus Beasley                   ##    9, Chicago Fire (USA)
+(9)  FW  Joe-Max Moore                      ##   95, Everton 
+(11)  FW  Clint Mathis                       ##   19, MetroStars (USA)
+(15)  FW  Josh Wolff                         ##   16, Chicago Fire (USA)
+(20)  FW  Brian McBride                      ##   58, Columbus Crew (USA)
+(21)  FW  Landon Donovan                     ##   20, San Jose Earthquakes (USA)
+
+2006
+23 players
+(1)  GK  Tim Howard                         ##   16, Manchester United (ENG)
+(18)  GK  Kasey Keller                       ##   93, Borussia Mönchengladbach (GER)
+(19)  GK  Marcus Hahnemann                   ##    6, Reading (ENG)
+(2)  DF  Chris Albright                     ##   20, LA Galaxy (USA)
+(3)  DF  Carlos Bocanegra                   ##   40, Fulham (ENG)
+(6)  DF  Steve Cherundolo                   ##   35, Hannover 96 (GER)
+(12)  DF  Gregg Berhalter                    ##   44, Energie Cottbus (GER)
+(13)  DF  Jimmy Conrad                       ##   15, Kansas City Wizards (USA)
+(22)  DF  Oguchi Onyewu                      ##   14, Standard Liège (BEL)
+(23)  DF  Eddie Pope                         ##   80, Real Salt Lake (USA)
+(4)  MF  Pablo Mastroeni                    ##   48, Colorado Rapids (USA)
+(5)  MF  John O'Brien                       ##   31, Chivas USA (USA)
+(7)  MF  Eddie Lewis                        ##   69, Leeds United (ENG)
+(8)  MF  Clint Dempsey                      ##   21, New England Revolution (USA)
+(10)  MF  Claudio Reyna                      ##  109, Manchester City (ENG)
+(14)  MF  Ben Olsen                          ##   34, D.C. United (USA)
+(15)  MF  Bobby Convey                       ##   39, Reading (ENG)
+(17)  MF  DaMarcus Beasley                   ##   58, PSV Eindhoven (NED)
+(9)  FW  Eddie Johnson                      ##   18, Kansas City Wizards (USA)
+(11)  FW  Brian Ching                        ##   20, Houston Dynamo (USA)
+(16)  FW  Josh Wolff                         ##   47, Kansas City Wizards (USA)
+(20)  FW  Brian McBride                      ##   92, Fulham (ENG)
+(21)  FW  Landon Donovan                     ##   81, LA Galaxy (USA)
+
+2010
+23 players
+(1)  GK  Tim Howard                         ##   51, Everton (ENG)
+(18)  GK  Brad Guzan                         ##   16, Aston Villa (ENG)
+(23)  GK  Marcus Hahnemann                   ##    7, Wolverhampton Wanderers (ENG)
+(2)  DF  Jonathan Spector                   ##   25, West Ham United (ENG)
+(3)  DF  Carlos Bocanegra                   ##   79, Rennes (FRA)
+(5)  DF  Oguchi Onyewu                      ##   54, Milan (ITA)
+(6)  DF  Steve Cherundolo                   ##   60, Hannover 96 (GER)
+(12)  DF  Jonathan Bornstein                 ##   32, Chivas USA (USA)
+(15)  DF  Jay DeMerit                        ##   19, Watford (ENG)
+(21)  DF  Clarence Goodson                   ##   14, Start (NOR)
+(4)  MF  Michael Bradley                    ##   43, Borussia Mönchengladbach (GER)
+(7)  MF  DaMarcus Beasley                   ##   92, Rangers (SCO)
+(8)  MF  Clint Dempsey                      ##   62, Fulham (ENG)
+(10)  MF  Landon Donovan                     ##  123, Los Angeles Galaxy (USA)
+(11)  MF  Stuart Holden                      ##   14, Bolton Wanderers (ENG)
+(13)  MF  Ricardo Clark                      ##   29, Eintracht Frankfurt (GER)
+(16)  MF  José Francisco Torres              ##   10, Pachuca (MEX)
+(19)  MF  Maurice Edu                        ##   13, Rangers (SCO)
+(22)  MF  Benny Feilhaber                    ##   32, AGF (DEN)
+(9)  FW  Herculez Gomez                     ##    4, Puebla (MEX)
+(14)  FW  Edson Buddle                       ##    3, Los Angeles Galaxy (USA)
+(17)  FW  Jozy Altidore                      ##   25, Hull City (ENG)
+(20)  FW  Robbie Findley                     ##    6, Real Salt Lake (USA)
+
+2014
+(1)  GK  Tim Howard                         ##  99, Everton (ENG)
+(12)  GK  Brad Guzan                         ##  25, Aston Villa (ENG)
+(22)  GK  Nick Rimando                       ##  14, Real Salt Lake (USA)
+(2)  DF  DeAndre Yedlin                     ##   4, Seattle Sounders FC (USA)
+(3)  DF  Omar Gonzalez                      ##  19, Los Angeles Galaxy (USA)
+(5)  DF  Matt Besler                        ##  16, Sporting Kansas City (USA)
+(6)  DF  John Brooks                        ##   4, Hertha BSC (GER)
+(7)  DF  DaMarcus Beasley                   ## 115, Puebla (MEX)
+(20)  DF  Geoff Cameron                      ##  26, Stoke City (ENG)
+(21)  DF  Timothy Chandler                   ##  12, 1. FC Nürnberg (GER)
+(23)  DF  Fabian Johnson                     ##  21, 1899 Hoffenheim (GER)
+(4)  MF  Michael Bradley                    ##  85, Toronto FC (CAN)
+(10)  MF  Mikkel Diskerud                    ##  19, Rosenborg (NOR)
+(11)  MF  Alejandro Bedoya                   ##  27, Nantes (FRA)
+(13)  MF  Jermaine Jones                     ##  41, Besiktas (TUR)
+(14)  MF  Brad Davis                         ##  16, Houston Dynamo (USA)
+(15)  MF  Kyle Beckerman                     ##  36, Real Salt Lake (USA)
+(16)  MF  Julian Green                       ##   2, Bayern Munich (GER)
+(19)  MF  Graham Zusi                        ##  22, Sporting Kansas City (USA)
+(8)  FW  Clint Dempsey                      ## 104, Seattle Sounders FC (USA)
+(9)  FW  Aron Jóhannsson                    ##   8, AZ (NED)
+(17)  FW  Jozy Altidore                      ##  69, Sunderland (ENG)
+(18)  FW  Chris Wondolowski                  ##  20, San Jose Earthquakes (USA)

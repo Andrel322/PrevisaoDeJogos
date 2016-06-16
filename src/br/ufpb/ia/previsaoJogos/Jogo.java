@@ -78,7 +78,7 @@ public class Jogo {
             return selecaoA;
         }
         else if((int) resulA == (int) resulB){
-            return "empate";
+            return "Empate";
         }
         return selecaoB;
     }

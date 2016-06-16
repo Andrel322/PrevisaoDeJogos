@@ -1,0 +1,120 @@
+Portugal - squad
+
+2002
+23 players
+(1)  GK  Vítor Baía                         ##   75, Porto 
+(15)  GK  Nélson                             ##    1, Sporting CP 
+(16)  GK  Ricardo                            ##   10, Boavista 
+(2)  DF  Jorge Costa                        ##   46, Porto 
+(3)  DF  Abel Xavier                        ##   18, Liverpool 
+(4)  DF  Marco Caneira                      ##    1, Benfica 
+(5)  DF  Fernando Couto                     ##   82, Lazio 
+(13)  DF  Jorge Andrade                      ##    5, Porto 
+(18)  DF  Nuno Frechaut                      ##    9, Boavista 
+(22)  DF  Beto                               ##   16, Sporting CP 
+(23)  DF  Rui Jorge                          ##   20, Sporting CP 
+(6)  MF  Paulo Sousa                        ##   50, Espanyol 
+(7)  MF  Luís Figo                          ##   81, Real Madrid 
+(10)  MF  Rui Costa                          ##   67, Milan 
+(11)  MF  Sérgio Conceição                   ##   41, Internazionale 
+(12)  MF  Hugo Viana                         ##    4, Sporting CP 
+(14)  MF  Pedro Barbosa                      ##   21, Sporting CP 
+(17)  MF  Paulo Bento                        ##   31, Sporting CP 
+(19)  MF  Capucho                            ##   29, Porto 
+(20)  MF  Petit                              ##    9, Boavista 
+(8)  FW  João Pinto                         ##   77, Sporting CP 
+(9)  FW  Pauleta                            ##   33, Bordeaux 
+(21)  FW  Nuno Gomes                         ##   28, Fiorentina 
+
+
+2006
+# Portugal (POR) 
+#   - 23 players
+
+ (1)  GK  Ricardo                            ##   49, Sporting CP (POR)
+(12)  GK  Quim                               ##   24, Benfica (POR)
+(22)  GK  Paulo Santos                       ##    1, Braga (POR)
+
+ (2)  DF  Paulo Ferreira                     ##   30, Chelsea (ENG)
+ (3)  DF  Marco Caneira                      ##   14, Valencia (ESP)
+ (4)  DF  Ricardo Costa                      ##    3, Porto (POR)
+ (5)  DF  Fernando Meira                     ##   30, Stuttgart (GER)
+(13)  DF  Miguel                             ##   28, Valencia (ESP)
+(14)  DF  Nuno Valente                       ##   23, Everton (ENG)
+(16)  DF  Ricardo Carvalho                   ##   24, Chelsea (ENG)
+
+ (6)  MF  Costinha                           ##   44, Dynamo Moscow (RUS)
+ (7)  MF  Luís Figo                          ##  120, Internazionale (ITA)
+ (8)  MF  Petit                              ##   36, Benfica (POR)
+(10)  MF  Hugo Viana                         ##   21, Valencia (ESP)
+(18)  MF  Maniche                            ##   31, Dynamo Moscow (RUS)
+(19)  MF  Tiago                              ##   22, Lyon (FRA)
+(20)  MF  Deco                               ##   35, Barcelona (ESP)
+
+ (9)  FW  Pauleta                            ##   82, Paris Saint-Germain (FRA)
+(11)  FW  Simão                              ##   43, Benfica (POR)
+(15)  FW  Luís Boa Morte                     ##   24, Fulham (ENG)
+(17)  FW  Cristiano Ronaldo                  ##   32, Manchester United (ENG)
+(21)  FW  Nuno Gomes                         ##   53, Benfica (POR)
+(23)  FW  Hélder Postiga                     ##   24, Porto (POR)
+
+
+2010
+# Portugal (POR) 
+#   - 23 players
+
+ (1)  GK  Eduardo                            ##   12, Braga (POR)
+(12)  GK  Beto                               ##    1, Porto (POR)
+(22)  GK  Daniel Fernandes                   ##    2, Iraklis (GRE)
+
+ (2)  DF  Bruno Alves                        ##   28, Porto (POR)
+ (3)  DF  Paulo Ferreira                     ##   59, Chelsea (ENG)
+ (4)  DF  Rolando                            ##    7, Porto (POR)
+ (5)  DF  Duda                               ##   14, Málaga (ESP)
+ (6)  DF  Ricardo Carvalho                   ##   60, Chelsea (ENG)
+(13)  DF  Miguel                             ##   53, Valencia (ESP)
+(15)  DF  Pepe                               ##   24, Real Madrid (ESP)
+(21)  DF  Ricardo Costa                      ##    6, Lille (FRA)
+(23)  DF  Fábio Coentrão                     ##    3, Benfica (POR)
+
+ (8)  MF  Pedro Mendes                       ##    5, Sporting CP (POR)
+(10)  MF  Danny                              ##    8, Zenit Saint Petersburg (RUS)
+(11)  MF  Simão                              ##   79, Atlético Madrid (ESP)
+(14)  MF  Miguel Veloso                      ##   10, Sporting CP (POR)
+(16)  MF  Raul Meireles                      ##   31, Porto (POR)
+(17)  MF  Rúben Amorim                       ##    0, Benfica (POR)
+(19)  MF  Tiago                              ##   49, Atlético Madrid (ESP)
+(20)  MF  Deco                               ##   71, Chelsea (ENG)
+
+ (7)  FW  Cristiano Ronaldo                  ##   69, Real Madrid (ESP)
+ (9)  FW  Liédson                            ##    7, Sporting CP (POR)
+(18)  FW  Hugo Almeida                       ##   23, Werder Bremen (GER)
+
+
+2014
+(1)  GK  Eduardo                            ##  33, Braga (POR)
+(12)  GK  Rui Patrício                       ##  29, Sporting (POR)
+(22)  GK  Beto                               ##   7, Sevilla (ESP)
+
+ (2)  DF  Bruno Alves                        ##  71, Fenerbahçe (TUR)
+ (3)  DF  Pepe                               ##  57, Real Madrid (ESP)
+ (5)  DF  Fábio Coentrão                     ##  43, Real Madrid (ESP)
+(13)  DF  Ricardo Costa                      ##  18, Valencia (ESP)
+(14)  DF  Luís Neto                          ##   7, Zenit Saint Petersburg (RUS)
+(19)  DF  André Almeida                      ##   3, Benfica (POR)
+(21)  DF  João Pereira                       ##  35, Valencia (ESP)
+
+ (4)  MF  Miguel Veloso                      ##  47, Dynamo Kyiv (UKR)
+ (6)  MF  William Carvalho                   ##   3, Sporting (POR)
+ (8)  MF  João Moutinho                      ##  66, AS Monaco (FRA)
+(10)  MF  Vieirinha                          ##   7, VfL Wolfsburg (GER)
+(15)  MF  Rafa Silva                         ##   2, Braga (POR)
+(16)  MF  Raul Meireles                      ##  73, Fenerbahçe (TUR)
+(17)  MF  Nani                               ##  73, Manchester United (ENG)
+(18)  MF  Silvestre Varela                   ##  22, Porto (POR)
+(20)  MF  Rúben Amorim                       ##  11, Benfica (POR)
+
+ (7)  FW  Cristiano Ronaldo                  ## 110, Real Madrid (ESP)
+ (9)  FW  Hugo Almeida                       ##  54, Besiktas (TUR)
+(11)  FW  Éder                               ##   7, Braga (POR)
+(23)  FW  Hélder Postiga                     ##  67, Lazio (ITA)

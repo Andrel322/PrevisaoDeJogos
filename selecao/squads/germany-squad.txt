@@ -1,0 +1,154 @@
+Germany - squad
+
+1994
+22 players
+ (1)  GK  Bodo Illgner                       ##    -, 1. FC Köln 
+(12)  GK  Andreas Köpke                      ##    -, 1. FC Nürnberg 
+(22)  GK  Oliver Kahn                        ##    -, Karlsruher SC 
+ (3)  DF  Andreas Brehme                     ##    -, 1. FC Kaiserslautern 
+ (4)  DF  Jürgen Kohler                      ##    -, Juventus 
+ (5)  DF  Thomas Helmer                      ##    -, Bayern München 
+ (6)  DF  Guido Buchwald                     ##    -, VfB Stuttgart 
+(14)  DF  Thomas Berthold                    ##    -, VfB Stuttgart 
+ (2)  MF  Thomas Strunz                      ##    -, VfB Stuttgart 
+ (7)  MF  Andreas Möller                     ##    -, Juventus 
+ (8)  MF  Thomas Häßler                      ##    -, Roma 
+(10)  MF  Lothar Matthäus                    ##    -, Bayern München 
+(15)  MF  Maurizio Gaudino                   ##    -, Eintracht Frankfurt 
+(16)  MF  Matthias Sammer                    ##    -, Borussia Dortmund 
+(17)  MF  Martin Wagner                      ##    -, 1. FC Kaiserslautern 
+(20)  MF  Stefan Effenberg                   ##    -, Fiorentina 
+(21)  MF  Mario Basler                       ##    -, Werder Bremen 
+ (9)  FW  Karl-Heinz Riedle                  ##    -, Borussia Dortmund 
+(11)  FW  Stefan Kuntz                       ##    -, 1. FC Kaiserslautern 
+(13)  FW  Rudi Völler                        ##    -, Marseille 
+(18)  FW  Jürgen Klinsmann                   ##    -, AS Monaco 
+(19)  FW  Ulf Kirsten                        ##    -, Bayer Leverkusen
+
+1998
+22 players
+(1)  GK  Andreas Köpke                      ##   54, Marseille 
+(12)  GK  Oliver Kahn                        ##   10, Bayern Munich 
+(22)  GK  Jens Lehmann                       ##    2, Schalke 04 
+(2)  DF  Christian Wörns                    ##   17, Bayer Leverkusen 
+(3)  DF  Jörg Heinrich                      ##   15, Borussia Dortmund 
+(4)  DF  Jürgen Kohler                      ##  101, Borussia Dortmund 
+(5)  DF  Thomas Helmer                      ##   66, Bayern Munich 
+(6)  DF  Olaf Thon                          ##   48, Schalke 04 
+(8)  DF  Lothar Matthäus                    ##  125, Bayern Munich 
+(14)  DF  Markus Babbel                      ##   30, Bayern Munich 
+(17)  DF  Christian Ziege                    ##   37, Milan 
+(19)  DF  Stefan Reuter                      ##   68, Borussia Dortmund 
+(21)  DF  Michael Tarnat                     ##   12, Bayern Munich 
+(7)  MF  Andreas Möller                     ##   79, Borussia Dortmund 
+(10)  MF  Thomas Häßler                      ##   93, Karlsruher SC 
+(13)  MF  Jens Jeremies                      ##    5, 1860 Munich 
+(15)  MF  Steffen Freund                     ##   21, Borussia Dortmund 
+(16)  MF  Dietmar Hamann                     ##    7, Bayern Munich 
+(9)  FW  Ulf Kirsten                        ##   32, Bayer Leverkusen 
+(11)  FW  Olaf Marschall                     ##    7, 1. FC Kaiserslautern 
+(18)  FW  Jürgen Klinsmann                   ##  103, Tottenham Hotspur 
+(20)  FW  Oliver Bierhoff                    ##   26, Udinese 
+
+2002
+23 players
+(1)  GK  Oliver Kahn                        ##   45, Bayern Munich 
+(12)  GK  Jens Lehmann                       ##   14, Borussia Dortmund 
+(23)  GK  Hans-Jörg Butt                     ##    2, Bayer Leverkusen 
+(2)  DF  Thomas Linke                       ##   34, Bayern Munich 
+(3)  DF  Marko Rehmer                       ##   27, Hertha BSC 
+(4)  DF  Frank Baumann                      ##   11, Werder Bremen 
+(6)  DF  Christian Ziege                    ##   66, Tottenham Hotspur 
+(15)  DF  Sebastian Kehl                     ##    8, Borussia Dortmund 
+(21)  DF  Christoph Metzelder                ##    6, Borussia Dortmund 
+(5)  MF  Carsten Ramelow                    ##   25, Bayer Leverkusen 
+(8)  MF  Dietmar Hamann                     ##   40, Liverpool 
+(10)  MF  Lars Ricken                        ##   16, Borussia Dortmund 
+(13)  MF  Michael Ballack                    ##   22, Bayer Leverkusen 
+(16)  MF  Jens Jeremies                      ##   33, Bayern Munich 
+(17)  MF  Marco Bode                         ##   34, Werder Bremen 
+(18)  MF  Jörg Böhme                         ##    6, Schalke 04 
+(19)  MF  Bernd Schneider                    ##    9, Bayer Leverkusen 
+(22)  MF  Torsten Frings                     ##    8, Werder Bremen 
+(7)  FW  Oliver Neuville                    ##   30, Bayer Leverkusen 
+(9)  FW  Carsten Jancker                    ##   26, Bayern Munich 
+(11)  FW  Miroslav Klose                     ##   12, 1. FC Kaiserslautern 
+(14)  FW  Gerald Asamoah                     ##   11, Schalke 04 
+(20)  FW  Oliver Bierhoff                    ##   65, AS Monaco 
+
+2006
+23 players
+(1)  GK  Jens Lehmann                       ##   32, Arsenal (ENG)
+(12)  GK  Oliver Kahn                        ##   85, Bayern Munich (GER)
+(23)  GK  Timo Hildebrand                    ##    3, Stuttgart (GER)
+(2)  DF  Marcell Jansen                     ##    7, Borussia Mönchengladbach (GER)
+(3)  DF  Arne Friedrich                     ##   36, Hertha BSC (GER)
+(4)  DF  Robert Huth                        ##   16, Chelsea (ENG)
+(6)  DF  Jens Nowotny                       ##   46, Bayer Leverkusen (GER)
+(16)  DF  Philipp Lahm                       ##   18, Bayern Munich (GER)
+(17)  DF  Per Mertesacker                    ##   23, Hannover 96 (GER)
+(21)  DF  Christoph Metzelder                ##   22, Borussia Dortmund (GER)
+(5)  MF  Sebastian Kehl                     ##   27, Borussia Dortmund (GER)
+(7)  MF  Bastian Schweinsteiger             ##   28, Bayern Munich (GER)
+(8)  MF  Torsten Frings                     ##   52, Werder Bremen (GER)
+(13)  MF  Michael Ballack                    ##   65, Bayern Munich (GER)
+(15)  MF  Thomas Hitzlsperger                ##   15, Stuttgart (GER)
+(18)  MF  Tim Borowski                       ##   20, Werder Bremen (GER)
+(19)  MF  Bernd Schneider                    ##   64, Bayer Leverkusen (GER)
+(22)  MF  David Odonkor                      ##    1, Borussia Dortmund (GER)
+(9)  FW  Mike Hanke                         ##    6, Wolfsburg (GER)
+(10)  FW  Oliver Neuville                    ##   55, Borussia Mönchengladbach (GER)
+(11)  FW  Miroslav Klose                     ##   55, Werder Bremen (GER)
+(14)  FW  Gerald Asamoah                     ##   40, Schalke 04 (GER)
+(20)  FW  Lukas Podolski                     ##   25, Köln (GER)
+
+2010
+23 players
+(1)  GK  Manuel Neuer                       ##    5, Schalke 04 (GER)
+(12)  GK  Tim Wiese                          ##    2, Werder Bremen (GER)
+(22)  GK  Hans-Jörg Butt                     ##    3, Bayern Munich (GER)
+(2)  DF  Marcell Jansen                     ##   31, Hamburger SV (GER)
+(3)  DF  Arne Friedrich                     ##   72, Hertha BSC (GER)
+(4)  DF  Dennis Aogo                        ##    2, Hamburger SV (GER)
+(5)  DF  Serdar Tasci                       ##   12, VfB Stuttgart (GER)
+(14)  DF  Holger Badstuber                   ##    2, Bayern Munich (GER)
+(16)  DF  Philipp Lahm                       ##   65, Bayern Munich (GER)
+(17)  DF  Per Mertesacker                    ##   62, Werder Bremen (GER)
+(20)  DF  Jérôme Boateng                     ##    5, Hamburger SV (GER)
+(6)  MF  Sami Khedira                       ##    5, VfB Stuttgart (GER)
+(7)  MF  Bastian Schweinsteiger             ##   74, Bayern Munich (GER)
+(8)  MF  Mesut Özil                         ##   10, Werder Bremen (GER)
+(10)  MF  Lukas Podolski                     ##   73, 1. FC Köln (GER)
+(13)  MF  Thomas Müller                      ##    2, Bayern Munich (GER)
+(15)  MF  Piotr Trochowski                   ##   31, Hamburger SV (GER)
+(18)  MF  Toni Kroos                         ##    4, Bayer Leverkusen (GER)
+(21)  MF  Marko Marin                        ##    9, Werder Bremen (GER)
+(9)  FW  Stefan Kießling                    ##    4, Bayer Leverkusen (GER)
+(11)  FW  Miroslav Klose                     ##   96, Bayern Munich (GER)
+(19)  FW  Cacau                              ##    8, VfB Stuttgart (GER)
+(23)  FW  Mario Gómez                        ##   34, Bayern Munich (GER)
+
+2014
+(1)  GK  Manuel Neuer                       ##  45, Bayern Munich (GER)
+(12)  GK  Ron-Robert Zieler                  ##   3, Hannover 96 (GER)
+(22)  GK  Roman Weidenfeller                 ##   2, Borussia Dortmund (GER)
+(2)  DF  Kevin Großkreutz                   ##   4, Borussia Dortmund (GER)
+(4)  DF  Benedikt Höwedes                   ##  20, Schalke 04 (GER)
+(5)  DF  Mats Hummels                       ##  29, Borussia Dortmund (GER)
+(15)  DF  Erik Durm                          ##   1, Borussia Dortmund (GER)
+(16)  DF  Philipp Lahm                       ## 105, Bayern Munich (GER)
+(17)  DF  Per Mertesacker                    ##  97, Arsenal (ENG)
+(20)  DF  Jérôme Boateng                     ##  38, Bayern Munich (GER)
+(3)  MF  Matthias Ginter                    ##   2, SC Freiburg (GER)
+(6)  MF  Sami Khedira                       ##  45, Real Madrid (ESP)
+(7)  MF  Bastian Schweinsteiger             ## 101, Bayern Munich (GER)
+(8)  MF  Mesut Özil                         ##  54, Arsenal (ENG)
+(9)  MF  André Schürrle                     ##  32, Chelsea (ENG)
+(13)  MF  Thomas Müller                      ##  48, Bayern Munich (GER)
+(14)  MF  Julian Draxler                     ##  11, Schalke 04 (GER)
+(18)  MF  Toni Kroos                         ##  43, Bayern Munich (GER)
+(19)  MF  Mario Götze                        ##  28, Bayern Munich (GER)
+(21)  MF  Marco Reus                         ##  20, Borussia Dortmund (GER)
+(23)  MF  Christoph Kramer                   ##   2, Borussia Mönchengladbach (GER)
+(10)  FW  Lukas Podolski                     ## 113, Arsenal (ENG)
+(11)  FW  Miroslav Klose                     ## 131, Lazio (ITA)

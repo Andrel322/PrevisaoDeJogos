@@ -1,0 +1,92 @@
+Sweden - squad
+
+1994
+22 players
+
+(1)  GK  Thomas Ravelli                     ##  110,  
+(12)  GK  Lars Eriksson                      ##   14,  
+(22)  GK  Magnus Hedman                      ##    0,  
+(2)  DF  Roland Nilsson                     ##   62,  
+(3)  DF  Patrik Andersson                   ##   23, Borussia Mönchengladbach 
+(4)  DF  Joachim Björklund                  ##   22,  
+(5)  DF  Roger Ljung                        ##   46,  
+(13)  DF  Mikael Nilsson                     ##   12,  
+(14)  DF  Pontus Kåmark                      ##   12,  
+(15)  DF  Teddy Lucic                        ##    0,  
+(20)  DF  Magnus Erlingmark                  ##   24,  
+(6)  MF  Stefan Schwarz                     ##   29,  
+(8)  MF  Klas Ingesson                      ##   42,  
+(9)  MF  Jonas Thern                        ##   47,  
+(16)  MF  Anders Limpar                      ##   51,  
+(17)  MF  Stefan Rehn                        ##   38,  
+(18)  MF  Håkan Mild                         ##   12,  
+(21)  MF  Jesper Blomqvist                   ##    8,  
+(7)  FW  Henrik Larsson                     ##    7,  
+(10)  FW  Martin Dahlin                      ##   29, Borussia Mönchengladbach 
+(11)  FW  Tomas Brolin                       ##   31,  
+(19)  FW  Kennet Andersson                   ##   24,  
+
+2002
+23 players
+
+ (1)  GK  Magnus Hedman                      ##   44, Coventry City 
+(12)  GK  Magnus Kihlstedt                   ##   12, Copenhagen 
+(23)  GK  Andreas Isaksson                   ##    1, Djurgården 
+
+ (2)  DF  Olof Mellberg                      ##   21, Aston Villa 
+ (3)  DF  Patrik Andersson                   ##   95, Barcelona 
+ (4)  DF  Johan Mjällby                      ##   35, Celtic 
+ (5)  DF  Michael Svensson                   ##   11, Troyes 
+(13)  DF  Tomas Antonelius                   ##    6, Copenhagen 
+(14)  DF  Erik Edman                         ##    5, Heerenveen 
+(15)  DF  Andreas Jakobsson                  ##   12, Hansa Rostock 
+(16)  DF  Teddy Lucic                        ##   41, AIK 
+
+ (6)  MF  Tobias Linderoth                   ##   19, Everton 
+ (7)  MF  Niclas Alexandersson               ##   58, Everton 
+ (8)  MF  Anders Svensson                    ##   24, Southampton 
+ (9)  MF  Fredrik Ljungberg                  ##   31, Arsenal 
+(17)  MF  Magnus Svensson                    ##   24, Brøndby 
+(18)  MF  Mattias Jonson                     ##   23, Brøndby 
+(19)  MF  Pontus Farnerud                    ##    2, AS Monaco 
+(20)  MF  Daniel Andersson                   ##   38, Venezia 
+
+(10)  FW  Marcus Allbäck                     ##   18, Heerenveen 
+(11)  FW  Henrik Larsson                     ##   67, Celtic 
+(21)  FW  Zlatan Ibrahimovic                 ##    9, Ajax 
+(22)  FW  Andreas Andersson                  ##   32, AIK 
+
+
+2006
+Sweden (SWE) 
+#   - 23 players
+
+ (1)  GK  Andreas Isaksson                   ##   39, Rennes (FRA)
+(12)  GK  John Alvbåge                       ##    2, Viborg (DEN)
+(23)  GK  Rami Shaaban                       ##    1, Fredrikstad (NOR)
+
+ (2)  DF  Mikael Nilsson                     ##   27, Panathinaikos (GRE)
+ (3)  DF  Olof Mellberg                      ##   64, Aston Villa (ENG)
+ (4)  DF  Teddy Lucic                        ##   81, Häcken (SWE)
+ (5)  DF  Erik Edman                         ##   37, Rennes (FRA)
+(13)  DF  Petter Hansson                     ##   13, Heerenveen (NED)
+(14)  DF  Fredrik Stenman                    ##    1, Bayer Leverkusen (GER)
+(15)  DF  Karl Svensson                      ##    1, Göteborg (SWE)
+
+ (6)  MF  Tobias Linderoth                   ##   58, Copenhagen (DEN)
+ (7)  MF  Niclas Alexandersson               ##   87, Göteborg (SWE)
+ (8)  MF  Anders Svensson                    ##   66, Elfsborg (SWE)
+ (9)  MF  Fredrik Ljungberg                  ##   57, Arsenal (ENG)
+(16)  MF  Kim Källström                      ##   34, Rennes (FRA)
+(18)  MF  Mattias Jonson                     ##   53, Djurgården (SWE)
+(19)  MF  Daniel Andersson                   ##   47, Malmö (SWE)
+(21)  MF  Christian Wilhelmsson              ##   29, Anderlecht (BEL)
+
+(10)  FW  Zlatan Ibrahimovic                 ##   38, Juventus (ITA)
+(11)  FW  Henrik Larsson                     ##   89, Barcelona (ESP)
+(17)  FW  Johan Elmander                     ##   18, Brøndby (DEN)
+(20)  FW  Marcus Allbäck                     ##   56, Copenhagen (DEN)
+(22)  FW  Markus Rosenberg                   ##    8, Ajax (NED)
+
+
+2010

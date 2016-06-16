@@ -131,7 +131,7 @@ public class Previsao {
                 }
             }
         }
-       JOptionPane.showMessageDialog(null, "Placar: " + jogoEscolhido.getPlacar() + " Campeao: " + jogoEscolhido.getResultado() + " ano: " + ano);
+       JOptionPane.showMessageDialog(null,maior + "% = " + "Placar: " + jogoEscolhido.getPlacar() + " Campeao: " + jogoEscolhido.getResultado());
     }
 
     public static List<Selecao> buscaSelecaoNome(String name) {

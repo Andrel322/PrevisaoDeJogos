@@ -1,0 +1,77 @@
+Switzerland - squad
+
+1994
+22 players
+(1)  GK  Marco Pascolo                      ##   18, Servette 
+(12)  GK  Stephan Lehmann                    ##    6, Sion 
+(22)  GK  Martin Brunner                     ##   33, Grasshopper 
+(2)  DF  Marc Hottiger                      ##   41, Sion 
+(3)  DF  Yvan Quentin                       ##   14, Sion 
+(5)  DF  Alain Geiger                       ##   94, Sion 
+(8)  DF  Christophe Ohrel                   ##   28, Servette 
+(13)  DF  André Egli                         ##   79, Servette 
+(18)  DF  Martin Rueda                       ##    5, Lucerne 
+(19)  DF  Jürg Studer                        ##    5, Zürich 
+(4)  MF  Dominique Herr                     ##   39, Sion 
+(7)  MF  Alain Sutter                       ##   46, 1. FC Nürnberg 
+(10)  MF  Ciriaco Sforza                     ##   23, 1. FC Kaiserslautern 
+(16)  MF  Thomas Bickel                      ##   41, Grasshopper 
+(17)  MF  Sébastien Fournier                 ##    4, Sion 
+(20)  MF  Patrick Sylvestre                  ##    9, Lausanne 
+(21)  MF  Thomas Wyss                        ##    5, Aarau 
+(6)  FW  Georges Bregy                      ##   50, Young Boys 
+(9)  FW  Adrian Knup                        ##   34, VfB Stuttgart 
+(11)  FW  Stéphane Chapuisat                 ##   36, Borussia Dortmund 
+(14)  FW  Nestor Subiat                      ##    7, Lugano 
+(15)  FW  Marco Grassi                       ##    9, Servette 
+
+2010
+23 players
+(1)  GK  Diego Benaglio                     ##   25, VfL Wolfsburg (GER)
+(12)  GK  Marco Wölfli                       ##    4, Young Boys (SUI)
+(21)  GK  Johnny Leoni                       ##    0, Zürich (SUI)
+(2)  DF  Stephan Lichtsteiner               ##   26, Lazio (ITA)
+(3)  DF  Ludovic Magnin                     ##   61, Zürich (SUI)
+(4)  DF  Philippe Senderos                  ##   38, Everton (ENG)
+(5)  DF  Steve von Bergen                   ##   10, Hertha BSC (GER)
+(13)  DF  Stéphane Grichting                 ##   33, Auxerre (FRA)
+(17)  DF  Reto Ziegler                       ##   10, Sampdoria (ITA)
+(22)  DF  Mario Eggimann                     ##    8, Hannover 96 (GER)
+(6)  MF  Benjamin Huggel                    ##   36, Basel (SUI)
+(7)  MF  Tranquillo Barnetta                ##   50, Bayer Leverkusen (GER)
+(8)  MF  Gökhan Inler                       ##   34, Udinese (ITA)
+(11)  MF  Valon Behrami                      ##   26, West Ham United (ENG)
+(14)  MF  Marco Padalino                     ##    7, Sampdoria (ITA)
+(15)  MF  Hakan Yakin                        ##   80, Luzern (SUI)
+(16)  MF  Gelson Fernandes                   ##   22, Saint-Étienne (FRA)
+(20)  MF  Pirmin Schwegler                   ##    3, Eintracht Frankfurt (GER)
+(23)  MF  Xherdan Shaqiri                    ##    1, Basel (SUI)
+(9)  FW  Alexander Frei                     ##   73, Basel (SUI)
+(10)  FW  Blaise Nkufo                       ##   29, Twente (NED)
+(18)  FW  Albert Bunjaku                     ##    1, 1. FC Nürnberg (GER)
+(19)  FW  Eren Derdiyok                      ##   19, Bayer Leverkusen (GER)
+
+2014
+(1)  GK  Diego Benaglio                     ##  56, VfL Wolfsburg (GER)
+(12)  GK  Yann Sommer                        ##   6, Basel (SUI)
+(21)  GK  Roman Bürki                        ##   0, Grasshopper (SUI)
+(2)  DF  Stephan Lichtsteiner               ##  62, Juventus (ITA)
+(3)  DF  Reto Ziegler                       ##  35, Sassuolo (ITA)
+(4)  DF  Philippe Senderos                  ##  53, Valencia (ESP)
+(5)  DF  Steve von Bergen                   ##  40, Young Boys (SUI)
+(6)  DF  Michael Lang                       ##   5, Grasshopper (SUI)
+(13)  DF  Ricardo Rodríguez                  ##  20, VfL Wolfsburg (GER)
+(20)  DF  Johan Djourou                      ##  44, Hamburger SV (GER)
+(22)  DF  Fabian Schär                       ##   5, Basel (SUI)
+(7)  MF  Tranquillo Barnetta                ##  73, Eintracht Frankfurt (GER)
+(8)  MF  Gökhan Inler                       ##  71, Napoli (ITA)
+(10)  MF  Granit Xhaka                       ##  25, Borussia Mönchengladbach (GER)
+(11)  MF  Valon Behrami                      ##  47, Napoli (ITA)
+(14)  MF  Valentin Stocker                   ##  23, Basel (SUI)
+(15)  MF  Blerim Džemaili                    ##  33, Napoli (ITA)
+(16)  MF  Gelson Fernandes                   ##  47, SC Freiburg (GER)
+(23)  MF  Xherdan Shaqiri                    ##  32, Bayern Munich (GER)
+(9)  FW  Haris Seferovic                    ##  10, Real Sociedad (ESP)
+(17)  FW  Mario Gavranovic                   ##  10, Zürich (SUI)
+(18)  FW  Admir Mehmedi                      ##  20, SC Freiburg (GER)
+(19)  FW  Josip Drmic                        ##   6, 1. FC Nürnberg (GER)

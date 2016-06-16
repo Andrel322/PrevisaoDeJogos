@@ -1,0 +1,154 @@
+Italy - squad
+
+1994
+22 players
+(1)  GK  Gianluca Pagliuca                  ##    -, Sampdoria 
+(12)  GK  Luca Marchegiani                   ##    -, Lazio 
+(22)  GK  Luca Bucci                         ##    -, Parma 
+(2)  DF  Luigi Apolloni                     ##    -, Parma 
+(3)  DF  Antonio Benarrivo                  ##    -, Parma 
+(4)  DF  Alessandro Costacurta              ##    -, Milan 
+(5)  DF  Paolo Maldini                      ##    -, Milan 
+(6)  DF  Franco Baresi                      ##    -, Milan 
+(7)  DF  Lorenzo Minotti                    ##    -, Parma 
+(8)  DF  Roberto Mussi                      ##    -, Torino 
+(9)  DF  Mauro Tassotti                     ##    -, Milan 
+(11)  MF  Demetrio Albertini                 ##    -, Milan 
+(13)  MF  Dino Baggio                        ##    -, Juventus 
+(14)  MF  Nicola Berti                       ##    -, Internazionale 
+(15)  MF  Antonio Conte                      ##    -, Juventus 
+(16)  MF  Roberto Donadoni                   ##    -, Milan 
+(17)  MF  Alberigo Evani                     ##    -, Sampdoria 
+(10)  FW  Roberto Baggio                     ##    -, Juventus 
+(18)  FW  Pierluigi Casiraghi                ##    -, Lazio 
+(19)  FW  Daniele Massaro                    ##    -, Milan 
+(20)  FW  Giuseppe Signori                   ##    -, Lazio 
+(21)  FW  Gianfranco Zola                    ##    -, Parma 
+
+1998
+22 players
+(1)  GK  Francesco Toldo                    ##    6, Fiorentina 
+(12)  GK  Gianluca Pagliuca                  ##   34, Internazionale 
+(22)  GK  Gianluigi Buffon                   ##    2, Parma 
+(2)  DF  Giuseppe Bergomi                   ##   78, Internazionale 
+(3)  DF  Paolo Maldini                      ##   88, Milan 
+(4)  DF  Fabio Cannavaro                    ##   14, Parma 
+(5)  DF  Alessandro Costacurta              ##   54, Milan 
+(6)  DF  Alessandro Nesta                   ##   12, Lazio 
+(7)  DF  Gianluca Pessotto                  ##    4, Juventus 
+(8)  DF  Moreno Torricelli                  ##    6, Juventus 
+(9)  MF  Demetrio Albertini                 ##   57, Milan 
+(11)  MF  Dino Baggio                        ##   46, Parma 
+(13)  MF  Sandro Cois                        ##    1, Fiorentina 
+(14)  MF  Luigi Di Biagio                    ##   13, Roma 
+(15)  MF  Angelo Di Livio                    ##   21, Juventus 
+(16)  MF  Roberto Di Matteo                  ##   32, Chelsea 
+(17)  MF  Francesco Moriero                  ##    3, Internazionale 
+(10)  FW  Alessandro Del Piero               ##   19, Juventus 
+(18)  FW  Roberto Baggio                     ##   48, Bologna 
+(19)  FW  Filippo Inzaghi                    ##    4, Juventus 
+(20)  FW  Enrico Chiesa                      ##    6, Parma 
+(21)  FW  Christian Vieri                    ##    8, Atlético Madrid 
+
+2002
+23 players
+(1)  GK  Gianluigi Buffon                   ##   26, Juventus 
+(12)  GK  Christian Abbiati                  ##    0, Milan 
+(22)  GK  Francesco Toldo                    ##   22, Internazionale 
+(2)  DF  Christian Panucci                  ##   24, Roma 
+(3)  DF  Paolo Maldini                      ##  122, Milan 
+(4)  DF  Francesco Coco                     ##   13, Barcelona 
+(5)  DF  Fabio Cannavaro                    ##   58, Parma 
+(13)  DF  Alessandro Nesta                   ##   43, Lazio 
+(15)  DF  Mark Iuliano                       ##   16, Juventus 
+(23)  DF  Marco Materazzi                    ##    7, Internazionale 
+(6)  MF  Cristiano Zanetti                  ##    4, Internazionale 
+(8)  MF  Gennaro Gattuso                    ##   13, Milan 
+(11)  MF  Cristiano Doni                     ##    3, Atalanta 
+(14)  MF  Luigi Di Biagio                    ##   28, Internazionale 
+(16)  MF  Angelo Di Livio                    ##   38, Fiorentina 
+(17)  MF  Damiano Tommasi                    ##   14, Roma 
+(19)  MF  Gianluca Zambrotta                 ##   23, Juventus 
+(7)  FW  Alessandro Del Piero               ##   49, Juventus 
+(9)  FW  Filippo Inzaghi                    ##   38, Milan 
+(10)  FW  Francesco Totti                    ##   29, Roma 
+(18)  FW  Marco Delvecchio                   ##   16, Roma 
+(20)  FW  Vincenzo Montella                  ##   14, Roma 
+(21)  FW  Christian Vieri                    ##   24, Internazionale 
+
+2006
+23 players
+(1)  GK  Gianluigi Buffon                   ##   60, Juventus (ITA)
+(12)  GK  Angelo Peruzzi                     ##   31, Lazio (ITA)
+(14)  GK  Marco Amelia                       ##    1, Livorno (ITA)
+(2)  DF  Cristian Zaccardo                  ##   12, Palermo (ITA)
+(3)  DF  Fabio Grosso                       ##   17, Palermo (ITA)
+(5)  DF  Fabio Cannavaro                    ##   93, Juventus (ITA)
+(6)  DF  Andrea Barzagli                    ##    8, Palermo (ITA)
+(13)  DF  Alessandro Nesta                   ##   74, Milan (ITA)
+(19)  DF  Gianluca Zambrotta                 ##   52, Juventus (ITA)
+(22)  DF  Massimo Oddo                       ##   20, Lazio (ITA)
+(23)  DF  Marco Materazzi                    ##   28, Internazionale (ITA)
+(4)  MF  Daniele De Rossi                   ##   17, Roma (ITA)
+(8)  MF  Gennaro Gattuso                    ##   43, Milan (ITA)
+(16)  MF  Mauro Camoranesi                   ##   21, Juventus (ITA)
+(17)  MF  Simone Barone                      ##   13, Palermo (ITA)
+(20)  MF  Simone Perrotta                    ##   24, Roma (ITA)
+(21)  MF  Andrea Pirlo                       ##   24, Milan (ITA)
+(7)  FW  Alessandro Del Piero               ##   74, Juventus (ITA)
+(9)  FW  Luca Toni                          ##   18, Fiorentina (ITA)
+(10)  FW  Francesco Totti                    ##   51, Roma (ITA)
+(11)  FW  Alberto Gilardino                  ##   15, Milan (ITA)
+(15)  FW  Vincenzo Iaquinta                  ##   12, Udinese (ITA)
+(18)  FW  Filippo Inzaghi                    ##   49, Milan (ITA)
+
+2010
+23 players
+(1)  GK  Gianluigi Buffon                   ##  101, Juventus (ITA)
+(12)  GK  Federico Marchetti                 ##    5, Cagliari (ITA)
+(14)  GK  Morgan De Sanctis                  ##    3, Napoli (ITA)
+(2)  DF  Christian Maggio                   ##    5, Napoli (ITA)
+(3)  DF  Domenico Criscito                  ##    7, Genoa (ITA)
+(4)  DF  Giorgio Chiellini                  ##   29, Juventus (ITA)
+(5)  DF  Fabio Cannavaro                    ##  133, Juventus (ITA)
+(13)  DF  Salvatore Bocchetti                ##    5, Genoa (ITA)
+(19)  DF  Gianluca Zambrotta                 ##   94, Milan (ITA)
+(23)  DF  Leonardo Bonucci                   ##    2, Bari (ITA)
+(6)  MF  Daniele De Rossi                   ##   54, Roma (ITA)
+(7)  MF  Simone Pepe                        ##   15, Udinese (ITA)
+(8)  MF  Gennaro Gattuso                    ##   72, Milan (ITA)
+(15)  MF  Claudio Marchisio                  ##    4, Juventus (ITA)
+(16)  MF  Mauro Camoranesi                   ##   53, Juventus (ITA)
+(17)  MF  Angelo Palombo                     ##   17, Sampdoria (ITA)
+(21)  MF  Andrea Pirlo                       ##   66, Milan (ITA)
+(22)  MF  Riccardo Montolivo                 ##   13, Fiorentina (ITA)
+(9)  FW  Vincenzo Iaquinta                  ##   37, Juventus (ITA)
+(10)  FW  Antonio Di Natale                  ##   33, Udinese (ITA)
+(11)  FW  Alberto Gilardino                  ##   41, Fiorentina (ITA)
+(18)  FW  Fabio Quagliarella                 ##   20, Napoli (ITA)
+(20)  FW  Giampaolo Pazzini                  ##    8, Sampdoria (ITA)
+
+2014
+(1)  GK  Gianluigi Buffon                   ## 139, Juventus (ITA)
+(12)  GK  Salvatore Sirigu                   ##   8, Paris Saint-Germain (FRA)
+(13)  GK  Mattia Perin                       ##   0, Genoa (ITA)
+(2)  DF  Mattia De Sciglio                  ##  10, Milan (ITA)
+(3)  DF  Giorgio Chiellini                  ##  67, Juventus (ITA)
+(4)  DF  Matteo Darmian                     ##   1, Torino (ITA)
+(7)  DF  Ignazio Abate                      ##  19, Milan (ITA)
+(15)  DF  Andrea Barzagli                    ##  47, Juventus (ITA)
+(19)  DF  Leonardo Bonucci                   ##  36, Juventus (ITA)
+(20)  DF  Gabriel Paletta                    ##   2, Parma (ITA)
+(5)  MF  Thiago Motta                       ##  20, Paris Saint-Germain (FRA)
+(6)  MF  Antonio Candreva                   ##  19, Lazio (ITA)
+(8)  MF  Claudio Marchisio                  ##  43, Juventus (ITA)
+(14)  MF  Alberto Aquilani                   ##  34, Fiorentina (ITA)
+(16)  MF  Daniele De Rossi                   ##  94, Roma (ITA)
+(18)  MF  Marco Parolo                       ##   3, Parma (ITA)
+(21)  MF  Andrea Pirlo                       ## 108, Juventus (ITA)
+(23)  MF  Marco Verratti                     ##   5, Paris Saint-Germain (FRA)
+(9)  FW  Mario Balotelli                    ##  29, Milan (ITA)
+(10)  FW  Antonio Cassano                    ##  36, Parma (ITA)
+(11)  FW  Alessio Cerci                      ##  11, Torino (ITA)
+(17)  FW  Ciro Immobile                      ##   2, Torino (ITA)
+(22)  FW  Lorenzo Insigne                    ##   4, Napoli (ITA)

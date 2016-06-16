@@ -1,0 +1,77 @@
+Greece - squad
+
+1994
+22 players
+(1)  GK  Antonis Minou                      ##    -, Apollon Smyrnis 
+(15)  GK  Christos Karkamanis                ##    -, Aris Thessaloniki 
+(20)  GK  Elias Atmatsidis                   ##    -, AEK 
+(2)  DF  Stratos Apostolakis                ##    -, Panathinaikos 
+(3)  DF  Thanasis Kolitsidakis              ##    -, Panathinaikos 
+(4)  DF  Stelios Manolas                    ##    -, AEK 
+(5)  DF  Ioannis Kalitzakis                 ##    -, Panathinaikos 
+(13)  DF  Vaios Karagiannis                  ##    -, AEK 
+(18)  DF  Kiriakos Karataidis                ##    -, Olympiacos 
+(22)  DF  Alexis Alexiou                     ##    -, PAOK 
+(6)  MF  Giotis Tsalouchidis                ##    -, Olympiacos 
+(8)  MF  Nikos Nioplias                     ##    -, Panathinaikos 
+(10)  MF  Tasos Mitropoulos                  ##    -, AEK 
+(11)  MF  Nikos Tsiantakis                   ##    -, Olympiacos 
+(12)  MF  Spiros Marangos                    ##    -, Panathinaikos 
+(17)  MF  Minas Hantzidis                    ##    -, Olympiacos 
+(19)  MF  Savvas Kofidis                     ##    -, Aris Thessaloniki 
+(7)  FW  Dimitris Saravakos                 ##    -, Panathinaikos 
+(9)  FW  Nikos Machlas                      ##    -, OFI 
+(14)  FW  Vasilis Dimitriadis                ##    -, AEK 
+(16)  FW  Alexis Alexoudis                   ##    -, OFI 
+(21)  FW  Alekos Alexandris                  ##    -, Olympiacos 
+
+2010
+23 players
+(1)  GK  Kostas Chalkias                    ##   27, PAOK (GRE)
+(12)  GK  Alexandros Tzorvas                 ##    6, Panathinaikos (GRE)
+(13)  GK  Michalis Sifakis                   ##    1, Aris (GRE)
+(2)  DF  Giourkas Seitaridis                ##   67, Panathinaikos (GRE)
+(3)  DF  Christos Patsatzoglou              ##   41, Omonia (CYP)
+(5)  DF  Vangelis Moras                     ##   10, Bologna (ITA)
+(8)  DF  Avraam Papadopoulos                ##   12, Olympiakos (GRE)
+(11)  DF  Loukas Vyntra                      ##   27, Panathinaikos (GRE)
+(15)  DF  Vasilis Torosidis                  ##   25, Olympiakos (GRE)
+(16)  DF  Sotirios Kyrgiakos                 ##   56, Liverpool (ENG)
+(19)  DF  Sokratis Papastathopoulos          ##   10, Genoa (ITA)
+(22)  DF  Stelios Malezas                    ##    0, PAOK (GRE)
+(4)  MF  Nikos Spiropoulos                  ##   17, Panathinaikos (GRE)
+(6)  MF  Alexandros Tziolis                 ##   17, Siena (ITA)
+(10)  MF  Giorgos Karagounis                 ##   91, Panathinaikos (GRE)
+(18)  MF  Sotiris Ninis                      ##    3, Panathinaikos (GRE)
+(21)  MF  Kostas Katsouranis                 ##   67, Panathinaikos (GRE)
+(23)  MF  Sakis Prittas                      ##    0, Aris (GRE)
+(7)  FW  Georgios Samaras                   ##   32, Celtic (SCO)
+(9)  FW  Angelos Charisteas                 ##   82, 1. FC Nürnberg (GER)
+(14)  FW  Dimitris Salpingidis               ##   34, Panathinaikos (GRE)
+(17)  FW  Theofanis Gekas                    ##   46, Hertha BSC (GER)
+(20)  FW  Pantelis Kapetanos                 ##    3, Steaua Bucuresti (ROM)
+
+2014
+(1)  GK  Orestis Karnezis                   ##  18, Granada (ESP)
+(12)  GK  Panagiotis Glykos                  ##   2, PAOK (GRE)
+(13)  GK  Stefanos Kapino                    ##   2, Panathinaikos (GRE)
+(2)  DF  Giannis Maniatis                   ##  29, Olympiacos (GRE)
+(3)  DF  Giorgos Tzavellas                  ##  13, PAOK (GRE)
+(4)  DF  Kostas Manolas                     ##   8, Olympiacos (GRE)
+(5)  DF  Vangelis Moras                     ##  18, Verona (ITA)
+(11)  DF  Loukas Vyntra                      ##  49, Levante (ESP)
+(15)  DF  Vasilis Torosidis                  ##  65, Roma (ITA)
+(19)  DF  Sokratis Papastathopoulos          ##  47, Borussia Dortmund (GER)
+(20)  DF  José Holebas                       ##  21, Olympiacos (GRE)
+(6)  MF  Alexandros Tziolis                 ##  49, Kayserispor (TUR)
+(8)  MF  Panagiotis Kone                    ##  15, Bologna (ITA)
+(10)  MF  Giorgos Karagounis                 ## 134, Fulham (ENG)
+(16)  MF  Lazaros Christodoulopoulos         ##  18, Bologna (ITA)
+(18)  MF  Giannis Fetfatzidis                ##  18, Genoa (ITA)
+(21)  MF  Kostas Katsouranis                 ## 110, PAOK (GRE)
+(22)  MF  Andreas Samaris                    ##   4, Olympiacos (GRE)
+(23)  MF  Panagiotis Tachtsidis              ##   5, Torino (ITA)
+(7)  FW  Giorgos Samaras                    ##  73, Celtic (SCO)
+(9)  FW  Kostas Mitroglou                   ##  31, Fulham (ENG)
+(14)  FW  Dimitris Salpingidis               ##  75, PAOK (GRE)
+(17)  FW  Theofanis Gekas                    ##  71, Konyaspor (TUR)

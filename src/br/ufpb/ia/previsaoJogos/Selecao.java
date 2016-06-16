@@ -78,7 +78,7 @@ public class Selecao {
         int numJogadores;
 
         try {
-            arq = new BufferedReader(new FileReader("./selecao/squads/" + this.nome.toLowerCase() + "-squads.txt"));
+            arq = new BufferedReader(new FileReader("./selecao/squads/" + this.nome.toLowerCase() + "-squad.txt"));
             arq.readLine();
             arq.readLine();
             while(!ano.equals(arq.readLine()) && arq.ready()){
